@@ -3491,7 +3491,8 @@ function PrintHTML() {
           '<SELECT ID="GameSelSelect" NAME="GameSelSelect" STYLE="';
         if (tableSize > 0) { text += 'width: ' + tableSize + 'px; '; }
         text += 'font-family: monospace;" CLASS="selectControl" TITLE="select a game" ' +
-          'ONCHANGE="this.blur(); if (this.value >= 0) { Init(this.value); this.value = -1; }" ' +
+          //'ONCHANGE="this.blur(); if (this.value >= 0) { Init(this.value); this.value = -1; }" ' +
+          'ONCHANGE="this.blur(); if (this.value >= 0) { Init(this.value);}" ' +
           'ONFOCUS="disableShortcutKeysAndStoreStatus();" ONBLUR="restoreShortcutKeysStatus();" ' +
           '> ' +
           '<OPTION CLASS="optionSelectControl" value=-1>';
