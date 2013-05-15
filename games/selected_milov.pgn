@@ -1,498 +1,230 @@
 [Event "Budapest ExpFS SepGM"]
 [Site "?"]
-[Date "1993.??.??"]
+[Date "1993"]
 [Round "2"]
 [White "Milov, V."]
 [Black "Afek, Y."]
 [Result "1-0"]
-[ECO "D20"]
-[WhiteElo "2500"]
+[Annotator "Milov"]
 [BlackElo "2430"]
-[Annotator "Milov"]
-[PlyCount "55"]
-[EventDate "1993.??.??"]
+[ECO "D20"]
+[EventDate "1993"]
+[WhiteElo "2500"]
 
-1. d4 d5 2. c4 dxc4 3. e4 c5 4. d5 e6 5. Nc3 exd5 6. Nxd5 Ne7 7. Bxc4 Nxd5 8.
-Bxd5 Be7 9. Nf3 O-O 10. O-O Qb6 11. Be3 Na6 12. Ne5 Nc7 (12... Qxb2 $4 13.
-Bxf7+ Rxf7 14. Qd5 $18) 13. Bb3 Qb4 {'!'} (13... Be6 14. Nd7 $16) 14. Qc2 Be6
-15. Nc4 {'!?'} 15... Qb5 (15... b5 $4 16. a3) (15... Bxc4 16. Bxc4 b5 17. Be2
-Ne6 18. a3 Nd4 (18... Qa5 19. a4 $16) 19. Bxd4 Qxd4 20. Bxb5 Rab8 (20... Rfb8
-21. Rad1 Qf6 22. e5 $1 {} 22... Qxe5 23. Rfe1 Qf6 24. Qe4 $18 {(+)<<a8}) 21.
-a4 $16) 16. f4 f6 {'?!'} (16... Qc6 17. Ne5 $14 {Milov,V}) 17. f5 Bf7 18. Rac1
-b6 (18... Rad8 $5) 19. Qe2 {'+/-'} 19... Rfe8 20. Bf4 Rac8 21. Qg4 Bf8 22. e5
-fxe5 23. Bxe5 Qd7 24. Rcd1 Nd5 25. Qg3 b5 26. Bxg7 Bxg7 27. f6 Be6 28. Ne5 1-0
-
-[Event "Lenk"]
-[Site "?"]
-[Date "1996.??.??"]
-[Round "?"]
-[White "Milov, V."]
-[Black "Kelecevic, N."]
-[Result "1-0"]
-[ECO "D35"]
-[WhiteElo "2585"]
-[BlackElo "2480"]
-[Annotator "Milov,V"]
-[PlyCount "55"]
-[EventDate "1996.??.??"]
-
-{66/347} 1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3
-Be6 8. Nge2 Nh5 9. Bxe7 Qxe7 10. h3 $5 $146 (10. Qc2 {- 65/397}) 10... f5 $6 (
-10... g6 11. Qc2 Nd7 12. g4 Ng7 13. Nf4 Nb6 (13... O-O-O $2 14. Ncxd5) (13...
-h5 14. O-O-O Nb6 (14... hxg4 15. hxg4 $16) 15. Be2 (15. Bxg6 hxg4 (15... fxg6
-$2 16. Nxg6 $18) 16. hxg4 Rxh1 17. Rxh1 fxg6 18. Qxg6+ (18. Nxg6 Qf6 19. Rh8+
-Kf7 20. Ne5+ Qxe5 $1) 18... Qf7 $8 19. Qg5 Qe7 $8 20. Qg6+ $10) 15... hxg4 16.
-hxg4 O-O-O 17. Nd3 $14) 14. O-O-O O-O-O 15. Be2 {/\ Nd3+/=}) 11. Qc2 g6 12. g4
-Ng7 (12... fxg4 $2 13. hxg4 Bxg4 14. Bxg6+ $18) 13. Nf4 Rf8 (13... O-O 14.
-O-O-O {/\ Rdg1->}) 14. O-O-O Nd7 15. Rhe1 $1 $16 Kd8 (15... O-O-O $2 16. Ncxd5)
-(15... Nb6 16. Nxe6 Qxe6 17. e4 $1 $18) (15... fxg4 16. Nxe6 Nxe6 (16... Qxe6
-17. e4 $18) 17. hxg4 $16 {[+], <->h}) (15... Nf6 16. Nxe6 Qxe6 17. gxf5 gxf5 (
-17... Nxf5 18. e4 dxe4 19. Bxe4 O-O-O 20. d5 $18) 18. Rg1 $16) 16. Kb1 Bg8 (
-16... fxg4 17. Nxe6+ Qxe6 18. e4 $40) 17. gxf5 Nxf5 (17... gxf5 18. Rg1 $16)
-18. Bxf5 Rxf5 19. Nd3 Kc7 20. f3 $3 Rxf3 21. Qh2+ Kd8 (21... Qd6 22. Nb5+ cxb5
-23. Rc1+ $18) (21... Kb6 22. Na4+ {/\ Qc7+-}) 22. e4 Qh4 23. Qe2 (23. exd5 $4
-Rxd3) 23... dxe4 (23... Rf8 24. exd5 cxd5 25. Nc5 $18 {->}) 24. Nxe4 Rf8 25.
-Nec5 b6 (25... Nxc5 26. dxc5 $18 {><Ra8, Kd8}) 26. d5 $3 $18 (26. Ne6+ Bxe6 27.
-Qxe6 Qf6 28. d5 c5) (26. Nxd7 Kxd7 27. Ne5+ (27. Nc5+ bxc5 28. dxc5+ Kc7 29.
-Qe5+ Kc8) 27... Kc7 28. Qc2 Rf6) (26. Ne5 Nxe5 27. dxe5+ Ke8) 26... Nxc5 (26...
-bxc5 27. dxc6) (26... Bxd5 27. Ne6+ Bxe6 28. Qxe6 Qf6 29. Nc5) (26... cxd5 27.
-Ne6+ Bxe6 28. Qxe6) 27. Nxc5 Bxd5 (27... bxc5 28. dxc6+ Kc7 29. Qa6 {
-/\ 30.Qb7#, 30.Rd7}) 28. Qe6 $1 1-0
-
-[Event "2nd IECC"]
-[Site "Ohrid MKD"]
-[Date "2001.06.06"]
-[Round "6"]
-[White "Milov, V."]
-[Black "De Vreugt, D."]
-[Result "1-0"]
-[ECO "A57"]
-[WhiteElo "2605"]
-[BlackElo "2460"]
-[Annotator "Milov"]
-[PlyCount "63"]
-[EventDate "2001.06.05"]
-
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. b6 a5 7. Nc3 Ba6 8. b7 Ra7
-9. e4 Bxf1 10. Kxf1 d6 11. e5 $1 dxe5 12. Nxe5 Rxb7 13. Qa4+ Nfd7 (13... Nbd7
-14. Nc6 Qb6 15. Qxa5 $16) 14. Nc6 Qb6 (14... Qc8 15. Bf4 Na6 16. Re1 f6 17.
-Nxe7 Bxe7 18. d6 O-O 19. Qc4+ Kh8 20. dxe7 $18 {
-Stefansson-Djurhuus,Reykjavik 2000}) 15. Bf4 $1 {'><Nb8'} 15... Bg7 (15... Qxb2
-16. Rb1 Qxb1+ (16... Qxc3 17. Rxb7 Qd3+ 18. Kg1 $18) 17. Nxb1 Rxb1+ 18. Ke2 $18
-) (15... Na6 16. Nxa5 Qxb2 17. Re1 $18) 16. Nxb8 (16. Re1 $2 O-O $132) (16.
-Bxb8 $2 Qxb2 17. Re1 Nb6 $17) 16... Rxb8 17. Bxb8 Qxb2 (17... Qxb8 18. Re1 $18)
-18. Rb1 Qxc3 19. Ke2 $1 $18 Qd4 (19... O-O 20. Rhc1 Nb6 21. Qc6 $18 (21. Qb5 $2
-Nxd5)) 20. Qxd4 Bxd4 21. d6 $1 f5 22. Rb7 Rf8 (22... Kd8 23. Rhb1 Re8 24. Bc7+
-Kc8 25. Bxa5 $18) 23. Re1 Rf6 (23... Rf7 24. Kd3 (24. f4 $5 Nxb8 25. Rxb8+ Kd7
-26. dxe7 Rxe7+ 27. Kd1 $18) 24... Bxf2 25. Rxe7+ Rxe7 26. dxe7 Kxe7 27. Kc4 Ke6
-28. a4 $18) 24. Kd3 e5 25. Reb1 $1 e4+ (25... Bxf2 26. Kc4) 26. Kc4 Bxf2 27.
-Kd5 e3 28. Rxd7 $1 Kxd7 29. Rb7+ Kd8 (29... Ke8 30. d7+ Ke7 (30... Kd8 31. Bc7+
-) 31. Bc7 Kxd7 32. Be5+ Kc8 33. Rb8+ Kd7 34. Bxf6 e2 35. Bc3 e1=Q 36. Bxe1 Bxe1
-37. Rb7+ Ke8 38. Rxh7 $18) (29... Kc8 30. Kc6 $1 (30. d7+) 30... e2 31. Bc7 $18
-) 30. Bc7+ Ke8 (30... Kd7 31. Bxa5+) 31. Rb8+ Kf7 32. d7 1-0
-
-[Event "XVI Carlos Torre Mem"]
-[Site "Merida MEX"]
-[Date "2003.12.15"]
-[Round "4"]
-[White "Milov, V."]
-[Black "Luther, T."]
-[Result "1-0"]
-[ECO "D11"]
-[WhiteElo "2574"]
-[BlackElo "2580"]
-[Annotator "Milov,V"]
-[PlyCount "57"]
-[EventDate "2003.12.12"]
-
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 {Not a long time ago people were
-laughing at such moves but now it became very popular and it seems that hardly
-anyone knows how to get an advantage in the lines 4.Nc3 a6, 3.Nc3 Nf6 4.e3 a6
-or the one that happened in our game.} 5. Bd3 Bg4 6. Qb3 ({and after} 6. Nbd2
-e6 7. O-O Nbd7 {there is no clear path for White to get an advantage, e.g.} 8.
-b3 Bd6 9. h3 Bf5 10. Qc2 Bxd3 11. Qxd3 O-O 12. Bb2 Qe7 {
-was about equal in Gurevich,M-Fressinet,L/Belfort 2003}) 6... Bxf3 7. gxf3 Ra7
-{This move doesn`t look very attractive and indeed more often Black prefers
-more natural 7...Qc7.  Justification of 7...Ra7, which is in my opinion not
-bad at all, is that rook can come into play along the 7th rank after b7-b5 or,
-as  the position remains closed it wouldn`t be a big problem for Black to lose
-time playing Ra7-a8 some day. I think in this moment none of us could imagine
-that this rook would stay on a7 for the rest of the game!} ({
-The above mentioned} 7... Qc7 {
-occurred in several games. In Van Wely-Bareev, Amber, 2003, after} 8. Nc3 e6 9.
-Bd2 Be7 10. Rc1 (10. c5 $5) 10... dxc4 11. Bxc4 Nbd7 12. Be2 O-O {
-Black achieved a satisfactory position}) 8. Nc3 e6 9. c5 (9. Bd2 {would allow}
-9... dxc4 10. Bxc4 b5 {followed by 11...c5}) 9... Nbd7 10. Bd2 ({
-if White would try to close the center by} 10. f4 {then} 10... b6 11. cxb6 Nxb6
-12. Na4 Nxa4 13. Qxa4 Qd7 {and Black is ready to play c6-c5}) 10... e5 ({now} 
-10... b6 {is more problematic for Black:} 11. cxb6 Nxb6 (11... Qxb6 $142 12.
-Qxb6 Nxb6 13. Ne2 $14) 12. Na4 Nxa4 13. Qxa4 Qd7 14. b4 $16) 11. Qc2 {
-So what is the White`s plan here? I want to castle long and thanks to the open
-"g"-file try to create some threats against the black king.} 11... g6 12. f4 $6
-{I didn`t see the difference between this move and 12.0-0-0, that I was going
-to play next.} ({Still,} 12. O-O-O {
-would be preferrable as White is not obliged to play f3-f4 in some variations:}
-12... b6 (12... Bh6 $6 {
-(hoping after 13.f4 to transpose to the position we had in the game)} 13. dxe5
-Nxe5 14. Be2 O-O 15. Na4 Bg7 16. Bc3 Qe7 17. h4 $16 {and the difference
-between this position and the one that happened in the game is obvious here}) (
-12... Bg7 13. f4) 13. cxb6 Qxb6 14. Kb1 {and White is slightly better}) 12...
-exd4 13. exd4 Bh6 $1 {This is the reason why I should have preferred to castle
-on move 12. After the dark-squared bishops are exchanged White will lack an
-important piece in the attack.} ({I was only counting on} 13... Bg7 14. O-O-O
-O-O 15. f5 b6 16. cxb6 Qxb6 17. Na4 Qc7 18. Kb1 Nh5 19. Be3 {
-with some advantage for White}) 14. O-O-O O-O 15. f5 Bxd2+ 16. Qxd2 Nh5 {
-Due to control over the dark squares Black has a satisfactory position.} (16...
-b6 {was the other option although it involved more risk:} 17. cxb6 Qxb6 18. Qh6
-Rb8 19. Rd2 c5 20. Rg1 Nf8 {with the unclear position} (20... cxd4 21. fxg6
-fxg6 22. Bxg6 hxg6 23. Rxg6+ Kf7 24. Rg7+ Ke6 25. Re2+ Ne5 (25... Kd6 26. Qf4+
-Kc5 27. Na4+) 26. f4 {winning})) 17. Rhg1 ({or} 17. h4 Qf6 18. Ne2 Raa8 19.
-Rdg1 Kh8 {
-and it`s also doubtful whether White can reach anything on the Kingside}) 17...
-Qh4 $6 {It seems that Thomas overestimates his position.} (17... Qf6 {
-defending the g6-pawn was better:} 18. Rg4 Ng7 19. Rdg1 Nxf5 20. Rf4 Kh8 21.
-Bxf5 gxf5 22. Qd3 Rg8 23. Rxg8+ Kxg8 24. Rxf5 Qh6+ 25. Kc2 Ra8 $1 {
-Finally bringing the rook into play Black manages to hold the balance.}) 18.
-Kb1 {
-aimed against 18...Qd4 which is now refuted by 19.fg fg 20.Bg6 and White wins.}
-18... Ndf6 $2 {Black is bringing the knight to the defence and black position
-seems indeed very solid but now surprisingly Black gets under smashing attack.}
-({or} 18... Nf4 19. Bc2 Nf6 (19... Raa8 20. f3 Nf6 21. Rg4 $18) 20. f3 g5 21.
-Qe1 $16) (18... Qf6 {was still the best defence.}) 19. fxg6 fxg6 20. Bxg6 $1 {
-there is no sense to sit and wait until Black plays Ra7-a8 and consolidates
-all his pieces.} 20... hxg6 21. Qh6 {Black has many pieces around his king but
-some of them are so ackwardly placed, especially the pinned knight on h5 and
-the queen on h4 that the black king is forced to leave his safe heaven and
-tries to save himself in the middle of the board.} 21... Kf7 (21... Nh7 22.
-Rxg6+ Kh8 23. Rg7 $18) (21... Qf4 22. Rxg6+ (22. Qxg6+ $2 Kh8 23. Rg5 Qc7)
-22... Kf7 23. Rg7+ Ke8 24. Re1+ Kd8 25. Rg5 Rf7 (25... Re8 26. Ree5 $3 {
-preparing 27.Rh5 Nh5 28.Qd6} 26... Qxh2 27. Rxh5 Qg1+ 28. Kc2 Qxf2+ 29. Kb3
-Rxe5 30. Rxe5 Nd7 31. Rg5 $18) 26. Qh8+ Kc7 27. Rge5 {
-and Black is helpless against the numerous threats, for example:} 27... Ng7 (
-27... Qxh2 28. Na4) 28. Re7+ Nd7 29. Qg8 Rxe7 30. Rxe7 Qxd4 31. Qxg7 Qxg7 32.
-Rxg7 $18) 22. Qxg6+ (22. Rxg6 {would have been a mistake in a view of} 22...
-Qxf2) 22... Ke7 23. Rde1+ Kd8 (23... Kd7 {is not better:} 24. Qf5+ Kd8 25. Qe6
-Ne8 (25... Nd7 26. Rg8 Qxf2 (26... Ra8 27. Nxd5 $1 cxd5 28. Rxf8+ Nxf8 29. Qb6+
-Kc8 30. c6 $18) 27. Qe8+ $1 Kc7 28. Rxf8 Qxf8 29. Qxh5 $18) 26. Qe5 Ra8 27.
-Nxd5 $3 cxd5 28. Qxd5+ Kc8 (28... Kc7 29. Rg5 {/\30.Re7}) 29. c6 Kb8 (29...
-bxc6 30. Rxe8+ $1 Rxe8 (30... Kc7 31. Qe5+ Kb7 32. Re7+) (30... Kb7 31. Qd7+
-Kb6 32. Re3) 31. Qxc6+ Kb8 32. Qb6+ Kc8 33. Rc1+ Kd7 34. Rc7+ Kd8 35. Qd6#) 30.
-cxb7 Ra7 31. Qc5 Rxb7 32. Qxf8 Rxb2+ 33. Ka1 $1 Nhf6 34. Rxe8+ Nxe8 35. Qxe8+ {
-winning}) 24. Qh6 {
-White has to hurry before Black manages to bring his a7-rook into play.} 24...
-Rf7 $2 {This so obvious move loses by force.} (24... Re8 {is not sufficient:}
-25. Rxe8+ Nxe8 26. Rg8 $18) (24... Nd7 {was the toughest defence after which
-it`s very difficult for White to keep the initiative.} {The computer now likes}
-25. Qh7 $1 {creating threats along the 7th rank and it looks like Black has to
-give up his knight on h5.} ({worse} 25. Na4 Qxd4 26. Nb6 Nhf6 {
-and White has no compensation for a piece}) (25. Rg3 Ra8 26. Rge3 Qg4 27. Na4
-Nhf6 28. Nb6 Rf7 {is unclear as well}) 25... Qxf2 {probably the best defence} (
-25... Kc7 {loses to} 26. Rg7 Rd8 27. Ree7 Qh3 28. Kc2 $1 {preventing Qf1+}
-28... b5 (28... b6 29. Na4) 29. Rgf7 Kc8 30. Ne2 Qg4 31. h3 Qxh3 32. Rf5 Nf8 (
-32... Qg2 33. Qxh5 Nf6 34. Qf7) 33. Rxf8 Rxf8 34. Rxa7 Qf5+ 35. Kd2 $18) (25...
-Ra8 26. Na4 Kc7 27. Nb6 Rad8 28. Rg7 Qh3 29. Rxd7+ Rxd7 30. Nxd7 Qf5+ 31. Qxf5
-Rxf5 32. Re7 Kd8 33. Rh7 Rxf2 34. Ne5 $18) (25... Qh3 26. Rg5 Nf4 27. Qe7+ Kc7
-28. Qd6+ Kc8 29. Na4 $18) (25... Qxd4 26. Qxh5 Qxf2 (26... Nxc5 27. Rd1 Qh8 (
-27... Qf6 28. Nxd5) (27... Qf4 28. Nxd5 Qe4+ 29. Ka1 cxd5 30. Rge1 Qc4 31.
-Rxd5+ Nd7 32. Qg5+ $18) 28. Qg5+ Kc8 (28... Qf6 29. Nxd5) 29. Qe7 Nd7 30. Rg7
-Qh3 31. Na4 Qf5+ 32. Ka1 Rd8 33. Nb6+ $18) 27. Na4 Kc7 28. Qg5 Qf4 (28... Qxh2
-29. Qe7) 29. Qxf4+ Rxf4 30. Rg7 Rxa4 (30... Kd8 31. Nb6 Nxc5 32. Ree7 $18) 31.
-Ree7 Rh4 32. Rxd7+ Kc8 33. Rdf7 Rh8 34. h4 $18) 26. Qxh5 Qxd4 {
-here White has a choice of 2 approximately equal options:} 27. Qg6 (27. Qg5+
-Kc8 28. h4 (28. Re7 Qxc5 29. Rc1 d4 30. Nd5 Qd6 31. Rg7 a5 32. h4 Ra6 33. h5
-Kb8) 28... Qxc5 (28... Nxc5 29. h5) 29. h5 d4 (29... b5 30. Ne2 Qf2 (30... Qd6
-31. Nd4) 31. h6 Qf6 32. Qg7 Qxg7 33. Rxg7 Rb7 34. Nd4 c5 35. Nc6 $18) 30. Ne4
-Qxg5 31. Rxg5 b5 (31... Kc7 32. Rg7) 32. Rd1 Nb6 33. Rxd4 Nd5 34. Rg6 Rc7 35.
-Nc5 a5 36. Rd1 {with a big advantage}) 27... Qxc5 (27... Qf6 28. Qxf6+ Rxf6 29.
-Rg8+ Rf8 30. Rxf8+ Nxf8 31. Na4 Ra8 32. Nb6 Rb8 33. h4 Nd7 34. Rg1 Nxc5 35.
-Rg8+ Kc7 36. Na8+ $18) (27... Nxc5 28. Qd6+ Nd7 29. Qe7+ Kc8 30. Rg7 Rd8 31. h4
-b5 32. h5 Rc7 (32... b4 33. Na4 Rh8 34. h6) 33. h6 Rh8 34. h7 Kb7 35. Ka1 a5
-36. Rf7 a4 37. Qd6 $16) 28. Qe6 Qd4 {and now} {or} 29. Rg6 (29. Rg8 Rxg8 30.
-Qxg8+ Kc7 31. Qg3+ Kd8 32. Ne2 (32. h4 Qf6) 32... Qf6 33. Nf4 b5 34. Ka1 $1 {
-this modest move means the beginning of the decisive attack!} (34. Ne6+ Kc8 35.
-Qd6 Nb8) 34... Kc8 (34... a5 35. a3 b4 36. Re6 Qd4 37. Rxc6 $18) 35. Re6 Qd8
-36. Rxc6+ Rc7 37. Rxc7+ Qxc7 38. Qg8+ Kb7 39. Qxd5+) 29... Qd3+ (29... Ra8 30.
-Qe7+ Kc8 (30... Kc7 31. Rd6 Rad8 32. Rxd7+) 31. Rd6 Rd8 32. Nxd5) (29... Kc7
-30. Qd6+ Kc8 31. h4 Qc5 (31... Rd8 32. Qg3) (31... Qxh4 32. Rge6 Rd8 33. Nxd5
-cxd5 34. Rc1+) 32. Qg3 b5 33. h5 (33. Ne2 $5) 33... Rc7 (33... Nf6 34. Re6 Raf7
-35. Qe5) 34. h6 Kb7 (34... Nf6 35. Rxf6 Rxf6 36. h7 Rxh7 37. Qg8+) 35. h7 Rh8
-36. Rg7 b4 37. Na4 Qd4 38. Ka1 c5 39. Rf7) 30. Ka1 Kc8 31. Rg8 Rxg8 32. Qxg8+
-Kc7 33. Rc1 d4 (33... Nc5 34. b4 Nd7 35. Nxd5+ Kd6 36. Qg1 (36. Nc3 Kc7 37. h4
-$16) 36... cxd5 (36... Ra8 37. Nb6) 37. Qxa7 Qd2 38. Qg1 $16) 34. Nd5+ Kd6 35.
-Nf4 Qf5 36. Rf1 c5 37. h4 b6 (37... d3 38. Rf3) 38. h5 Kc6 39. Qg2+ Kb5 40. b3
-a5 41. Qe2+ Kc6 42. Nd3 Qd5 43. h6 a4 44. b4 c4 45. b5+ Kb7 (45... Qxb5 46. h7)
-46. Nb4 d3 47. Nxd5 dxe2 48. Re1 Ra8 49. Rxe2 Rh8 50. Re7 Kc8 51. h7 $18 {
-and White wins. Probably the above seen lines don`t show all defensive
-possibilities but from them we can see how dangerous White`s initiative is.})
-25. Rg8+ $1 {appearance of this rook on the 8th rank means even more trouble
-to the black king, moreover it means that the rook on a7 probably will never
-come into play...} 25... Kc7 (25... Nxg8 26. Qd6+ {with mate}) 26. Rf8 {
-putting the rook in a more "comfortable" place and keeping to chase the black
-rook.} ({
-when analysing the game I discovered another nice possibility for White:} 26.
-Qh8 $5 Qh3 (26... Nxg8 27. Qe5+ Kc8 28. Na4 b5 29. Qe6+ Rfd7 30. Nb6+ Kb8 31.
-Nxd7+) 27. Rb8 Qd7 28. Na4 {winning}) 26... Rh7 {
-allowing the beautiful final, but there was no defence anyway.} (26... Rd7 27.
-Qh8 $18) (26... Rg7 27. Na4 Qxd4 28. Qh8 Qd3+ 29. Ka1 Qe4 30. Rc8+ Kd7 31. Nb6+
-) 27. Na4 $3 {Comes completely unexpectedly. The knight suddenly is joining
-the mating attack.} ({There was another winning option:} 27. Qg6 Rd7 28. Ree8
-Nxe8 29. Qxe8 Rd8 30. Qe5+ Kc8 31. Rf7 Rd7 32. Qf5 Qd8 33. Na4 $18 {
-but I like 27.Na4!! a lot more.}) 27... Rxh6 (27... Qh3 28. Nb6 Rxh6 29. Re7+ {
-followed by 30.Rc8 mate.}) (27... Qxf2 28. Qxh7+ Nxh7 29. Re7#) 28. Nb6 ({
-Here it was not too late for White to make a mistake:} 28. Re7+ $2 Nd7 29. Nb6
-{and it seems that there is no defence against 30.Rc8 but...} 29... Qe4+ $3 {
-still, White could make a draw after} 30. Kc1 Qe1+ 31. Kc2 Qe2+ 32. Kc1 Qc4+
-33. Kb1 Qf1+ {with a perpetual}) 28... Qe4+ (28... Qh3 29. Re7+ {except the
-g and some pawns White used all his pieces to deliver mate to the Black king.})
-29. Rxe4 1-0
+1.d4 d5 2.c4 dxc4 3.e4 c5 4.d5 e6 5.Nc3 exd5 6.Nxd5 Ne7 7.Bxc4 Nxd5 8.Bxd5
+Be7 9.Nf3 O-O 10.O-O Qb6 11.Be3 Na6 12.Ne5 Nc7 ( 12...Qxb2 $4 13.Bxf7+ Rxf7
+14.Qd5 $18 ) 13.Bb3 Qb4 { '!' } ( 13...Be6 14.Nd7 $16 ) 14.Qc2 Be6 15.Nc4
+{ '!?' } 15...Qb5 ( 15...b5 $4 16.a3 ) ( 15...Bxc4 16.Bxc4 b5 17.Be2 Ne6
+18.a3 Nd4 ( 18...Qa5 19.a4 $16 ) 19.Bxd4 Qxd4 20.Bxb5 Rab8 ( 20...Rfb8
+21.Rad1 Qf6 22.e5 $1 {  } 22...Qxe5 23.Rfe1 Qf6 24.Qe4 $18 { (+)<<a8 } )
+21.a4 $16 ) 16.f4 f6 { '?!' } ( 16...Qc6 17.Ne5 $14 { Milov,V } ) 17.f5 Bf7
+18.Rac1 b6 ( 18...Rad8 $5 ) 19.Qe2 { '+/-' } 19...Rfe8 20.Bf4 Rac8 21.Qg4 Bf8
+22.e5 fxe5 23.Bxe5 Qd7 24.Rcd1 Nd5 25.Qg3 b5 26.Bxg7 Bxg7 27.f6 Be6 28.Ne5
+1-0
 
 [Event "Budapest ExpFS SepGM"]
 [Site "?"]
-[Date "1993.??.??"]
+[Date "1993"]
 [Round "2"]
 [White "Milov, V."]
 [Black "Afek, Y."]
 [Result "1-0"]
-[ECO "D20"]
-[WhiteElo "2500"]
-[BlackElo "2430"]
 [Annotator "Milov"]
-[PlyCount "55"]
-[EventDate "1993.??.??"]
+[BlackElo "2430"]
+[ECO "D20"]
+[EventDate "1993"]
+[WhiteElo "2500"]
 
-1. d4 d5 2. c4 dxc4 3. e4 c5 4. d5 e6 5. Nc3 exd5 6. Nxd5 Ne7 7. Bxc4 Nxd5 8.
-Bxd5 Be7 9. Nf3 O-O 10. O-O Qb6 11. Be3 Na6 12. Ne5 Nc7 (12... Qxb2 $4 13.
-Bxf7+ Rxf7 14. Qd5 $18) 13. Bb3 Qb4 {'!'} (13... Be6 14. Nd7 $16) 14. Qc2 Be6
-15. Nc4 {'!?'} 15... Qb5 (15... b5 $4 16. a3) (15... Bxc4 16. Bxc4 b5 17. Be2
-Ne6 18. a3 Nd4 (18... Qa5 19. a4 $16) 19. Bxd4 Qxd4 20. Bxb5 Rab8 (20... Rfb8
-21. Rad1 Qf6 22. e5 $1 {} 22... Qxe5 23. Rfe1 Qf6 24. Qe4 $18 {(+)<<a8}) 21.
-a4 $16) 16. f4 f6 {'?!'} (16... Qc6 17. Ne5 $14 {Milov,V}) 17. f5 Bf7 18. Rac1
-b6 (18... Rad8 $5) 19. Qe2 {'+/-'} 19... Rfe8 20. Bf4 Rac8 21. Qg4 Bf8 22. e5
-fxe5 23. Bxe5 Qd7 24. Rcd1 Nd5 25. Qg3 b5 26. Bxg7 Bxg7 27. f6 Be6 28. Ne5 1-0
+1.d4 d5 2.c4 dxc4 3.e4 c5 4.d5 e6 5.Nc3 exd5 6.Nxd5 Ne7 7.Bxc4 Nxd5 8.Bxd5
+Be7 9.Nf3 O-O 10.O-O Qb6 11.Be3 Na6 12.Ne5 Nc7 ( 12...Qxb2 $4 13.Bxf7+ Rxf7
+14.Qd5 $18 ) 13.Bb3 Qb4 { '!' } ( 13...Be6 14.Nd7 $16 ) 14.Qc2 Be6 15.Nc4
+{ '!?' } 15...Qb5 ( 15...b5 $4 16.a3 ) ( 15...Bxc4 16.Bxc4 b5 17.Be2 Ne6
+18.a3 Nd4 ( 18...Qa5 19.a4 $16 ) 19.Bxd4 Qxd4 20.Bxb5 Rab8 ( 20...Rfb8
+21.Rad1 Qf6 22.e5 $1 {  } 22...Qxe5 23.Rfe1 Qf6 24.Qe4 $18 { (+)<<a8 } )
+21.a4 $16 ) 16.f4 f6 { '?!' } ( 16...Qc6 17.Ne5 $14 { Milov,V } ) 17.f5 Bf7
+18.Rac1 b6 ( 18...Rad8 $5 ) 19.Qe2 { '+/-' } 19...Rfe8 20.Bf4 Rac8 21.Qg4 Bf8
+22.e5 fxe5 23.Bxe5 Qd7 24.Rcd1 Nd5 25.Qg3 b5 26.Bxg7 Bxg7 27.f6 Be6 28.Ne5
+1-0
 
 [Event "Lenk"]
 [Site "?"]
-[Date "1996.??.??"]
+[Date "1996"]
 [Round "?"]
 [White "Milov, V."]
 [Black "Kelecevic, N."]
 [Result "1-0"]
-[ECO "D35"]
-[WhiteElo "2585"]
+[Annotator "Milov,V"]
 [BlackElo "2480"]
-[Annotator "Milov,V"]
-[PlyCount "55"]
-[EventDate "1996.??.??"]
+[ECO "D35"]
+[EventDate "1996"]
+[WhiteElo "2585"]
 
-{66/347} 1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3
-Be6 8. Nge2 Nh5 9. Bxe7 Qxe7 10. h3 $5 $146 (10. Qc2 {- 65/397}) 10... f5 $6 (
-10... g6 11. Qc2 Nd7 12. g4 Ng7 13. Nf4 Nb6 (13... O-O-O $2 14. Ncxd5) (13...
-h5 14. O-O-O Nb6 (14... hxg4 15. hxg4 $16) 15. Be2 (15. Bxg6 hxg4 (15... fxg6
-$2 16. Nxg6 $18) 16. hxg4 Rxh1 17. Rxh1 fxg6 18. Qxg6+ (18. Nxg6 Qf6 19. Rh8+
-Kf7 20. Ne5+ Qxe5 $1) 18... Qf7 $8 19. Qg5 Qe7 $8 20. Qg6+ $10) 15... hxg4 16.
-hxg4 O-O-O 17. Nd3 $14) 14. O-O-O O-O-O 15. Be2 {/\ Nd3+/=}) 11. Qc2 g6 12. g4
-Ng7 (12... fxg4 $2 13. hxg4 Bxg4 14. Bxg6+ $18) 13. Nf4 Rf8 (13... O-O 14.
-O-O-O {/\ Rdg1->}) 14. O-O-O Nd7 15. Rhe1 $1 $16 Kd8 (15... O-O-O $2 16. Ncxd5)
-(15... Nb6 16. Nxe6 Qxe6 17. e4 $1 $18) (15... fxg4 16. Nxe6 Nxe6 (16... Qxe6
-17. e4 $18) 17. hxg4 $16 {[+], <->h}) (15... Nf6 16. Nxe6 Qxe6 17. gxf5 gxf5 (
-17... Nxf5 18. e4 dxe4 19. Bxe4 O-O-O 20. d5 $18) 18. Rg1 $16) 16. Kb1 Bg8 (
-16... fxg4 17. Nxe6+ Qxe6 18. e4 $40) 17. gxf5 Nxf5 (17... gxf5 18. Rg1 $16)
-18. Bxf5 Rxf5 19. Nd3 Kc7 20. f3 $3 Rxf3 21. Qh2+ Kd8 (21... Qd6 22. Nb5+ cxb5
-23. Rc1+ $18) (21... Kb6 22. Na4+ {/\ Qc7+-}) 22. e4 Qh4 23. Qe2 (23. exd5 $4
-Rxd3) 23... dxe4 (23... Rf8 24. exd5 cxd5 25. Nc5 $18 {->}) 24. Nxe4 Rf8 25.
-Nec5 b6 (25... Nxc5 26. dxc5 $18 {><Ra8, Kd8}) 26. d5 $3 $18 (26. Ne6+ Bxe6 27.
-Qxe6 Qf6 28. d5 c5) (26. Nxd7 Kxd7 27. Ne5+ (27. Nc5+ bxc5 28. dxc5+ Kc7 29.
-Qe5+ Kc8) 27... Kc7 28. Qc2 Rf6) (26. Ne5 Nxe5 27. dxe5+ Ke8) 26... Nxc5 (26...
-bxc5 27. dxc6) (26... Bxd5 27. Ne6+ Bxe6 28. Qxe6 Qf6 29. Nc5) (26... cxd5 27.
-Ne6+ Bxe6 28. Qxe6) 27. Nxc5 Bxd5 (27... bxc5 28. dxc6+ Kc7 29. Qa6 {
-/\ 30.Qb7#, 30.Rd7}) 28. Qe6 $1 1-0
+{ 66/347 } 1.d4 e6 2.c4 d5 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 c6 6.e3 Be7 7.Bd3 Be6
+8.Nge2 Nh5 9.Bxe7 Qxe7 10.h3 $5 $146 ( 10.Qc2 { - 65/397 } ) 10...f5 $6 ( 
+10...g6 11.Qc2 Nd7 12.g4 Ng7 13.Nf4 Nb6 ( 13...O-O-O $2 14.Ncxd5 ) ( 13...h5
+14.O-O-O Nb6 ( 14...hxg4 15.hxg4 $16 ) 15.Be2 ( 15.Bxg6 hxg4 ( 15...fxg6 $2
+16.Nxg6 $18 ) 16.hxg4 Rxh1 17.Rxh1 fxg6 18.Qxg6+ ( 18.Nxg6 Qf6 19.Rh8+ Kf7
+20.Ne5+ Qxe5 $1 ) 18...Qf7 $8 19.Qg5 Qe7 $8 20.Qg6+ $10 ) 15...hxg4 16.hxg4
+O-O-O 17.Nd3 $14 ) 14.O-O-O O-O-O 15.Be2 { /\ Nd3+/= } ) 11.Qc2 g6 12.g4 Ng7
+( 12...fxg4 $2 13.hxg4 Bxg4 14.Bxg6+ $18 ) 13.Nf4 Rf8 ( 13...O-O 14.O-O-O
+{ /\ Rdg1-> } ) 14.O-O-O Nd7 15.Rhe1 $1 $16 Kd8 ( 15...O-O-O $2 16.Ncxd5 ) ( 
+15...Nb6 16.Nxe6 Qxe6 17.e4 $1 $18 ) ( 15...fxg4 16.Nxe6 Nxe6 ( 16...Qxe6
+17.e4 $18 ) 17.hxg4 $16 { [+], <->h } ) ( 15...Nf6 16.Nxe6 Qxe6 17.gxf5 gxf5
+( 17...Nxf5 18.e4 dxe4 19.Bxe4 O-O-O 20.d5 $18 ) 18.Rg1 $16 ) 16.Kb1 Bg8 ( 
+16...fxg4 17.Nxe6+ Qxe6 18.e4 $40 ) 17.gxf5 Nxf5 ( 17...gxf5 18.Rg1 $16 )
+18.Bxf5 Rxf5 19.Nd3 Kc7 20.f3 $3 Rxf3 21.Qh2+ Kd8 ( 21...Qd6 22.Nb5+ cxb5
+23.Rc1+ $18 ) ( 21...Kb6 22.Na4+ { /\ Qc7+- } ) 22.e4 Qh4 23.Qe2 ( 23.exd5 $4
+Rxd3 ) 23...dxe4 ( 23...Rf8 24.exd5 cxd5 25.Nc5 $18 { -> } ) 24.Nxe4 Rf8
+25.Nec5 b6 ( 25...Nxc5 26.dxc5 $18 { ><Ra8, Kd8 } ) 26.d5 $3 $18 ( 26.Ne6+
+Bxe6 27.Qxe6 Qf6 28.d5 c5 ) ( 26.Nxd7 Kxd7 27.Ne5+ ( 27.Nc5+ bxc5 28.dxc5+
+Kc7 29.Qe5+ Kc8 ) 27...Kc7 28.Qc2 Rf6 ) ( 26.Ne5 Nxe5 27.dxe5+ Ke8 )
+26...Nxc5 ( 26...bxc5 27.dxc6 ) ( 26...Bxd5 27.Ne6+ Bxe6 28.Qxe6 Qf6 29.Nc5 )
+( 26...cxd5 27.Ne6+ Bxe6 28.Qxe6 ) 27.Nxc5 Bxd5 ( 27...bxc5 28.dxc6+ Kc7
+29.Qa6 { /\ 30.Qb7#, 30.Rd7 } ) 28.Qe6 $1 1-0
 
-[Event "2nd IECC"]
-[Site "Ohrid MKD"]
-[Date "2001.06.06"]
-[Round "6"]
+[Event "Lenk"]
+[Site "?"]
+[Date "1996"]
+[Round "?"]
 [White "Milov, V."]
-[Black "De Vreugt, D."]
+[Black "Kelecevic, N."]
 [Result "1-0"]
-[ECO "A57"]
-[WhiteElo "2605"]
-[BlackElo "2460"]
+[Annotator "Milov,V"]
+[BlackElo "2480"]
+[ECO "D35"]
+[EventDate "1996"]
+[WhiteElo "2585"]
+
+{ 66/347 } 1.d4 e6 2.c4 d5 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 c6 6.e3 Be7 7.Bd3 Be6
+8.Nge2 Nh5 9.Bxe7 Qxe7 10.h3 $5 $146 ( 10.Qc2 { - 65/397 } ) 10...f5 $6 ( 
+10...g6 11.Qc2 Nd7 12.g4 Ng7 13.Nf4 Nb6 ( 13...O-O-O $2 14.Ncxd5 ) ( 13...h5
+14.O-O-O Nb6 ( 14...hxg4 15.hxg4 $16 ) 15.Be2 ( 15.Bxg6 hxg4 ( 15...fxg6 $2
+16.Nxg6 $18 ) 16.hxg4 Rxh1 17.Rxh1 fxg6 18.Qxg6+ ( 18.Nxg6 Qf6 19.Rh8+ Kf7
+20.Ne5+ Qxe5 $1 ) 18...Qf7 $8 19.Qg5 Qe7 $8 20.Qg6+ $10 ) 15...hxg4 16.hxg4
+O-O-O 17.Nd3 $14 ) 14.O-O-O O-O-O 15.Be2 { /\ Nd3+/= } ) 11.Qc2 g6 12.g4 Ng7
+( 12...fxg4 $2 13.hxg4 Bxg4 14.Bxg6+ $18 ) 13.Nf4 Rf8 ( 13...O-O 14.O-O-O
+{ /\ Rdg1-> } ) 14.O-O-O Nd7 15.Rhe1 $1 $16 Kd8 ( 15...O-O-O $2 16.Ncxd5 ) ( 
+15...Nb6 16.Nxe6 Qxe6 17.e4 $1 $18 ) ( 15...fxg4 16.Nxe6 Nxe6 ( 16...Qxe6
+17.e4 $18 ) 17.hxg4 $16 { [+], <->h } ) ( 15...Nf6 16.Nxe6 Qxe6 17.gxf5 gxf5
+( 17...Nxf5 18.e4 dxe4 19.Bxe4 O-O-O 20.d5 $18 ) 18.Rg1 $16 ) 16.Kb1 Bg8 ( 
+16...fxg4 17.Nxe6+ Qxe6 18.e4 $40 ) 17.gxf5 Nxf5 ( 17...gxf5 18.Rg1 $16 )
+18.Bxf5 Rxf5 19.Nd3 Kc7 20.f3 $3 Rxf3 21.Qh2+ Kd8 ( 21...Qd6 22.Nb5+ cxb5
+23.Rc1+ $18 ) ( 21...Kb6 22.Na4+ { /\ Qc7+- } ) 22.e4 Qh4 23.Qe2 ( 23.exd5 $4
+Rxd3 ) 23...dxe4 ( 23...Rf8 24.exd5 cxd5 25.Nc5 $18 { -> } ) 24.Nxe4 Rf8
+25.Nec5 b6 ( 25...Nxc5 26.dxc5 $18 { ><Ra8, Kd8 } ) 26.d5 $3 $18 ( 26.Ne6+
+Bxe6 27.Qxe6 Qf6 28.d5 c5 ) ( 26.Nxd7 Kxd7 27.Ne5+ ( 27.Nc5+ bxc5 28.dxc5+
+Kc7 29.Qe5+ Kc8 ) 27...Kc7 28.Qc2 Rf6 ) ( 26.Ne5 Nxe5 27.dxe5+ Ke8 )
+26...Nxc5 ( 26...bxc5 27.dxc6 ) ( 26...Bxd5 27.Ne6+ Bxe6 28.Qxe6 Qf6 29.Nc5 )
+( 26...cxd5 27.Ne6+ Bxe6 28.Qxe6 ) 27.Nxc5 Bxd5 ( 27...bxc5 28.dxc6+ Kc7
+29.Qa6 { /\ 30.Qb7#, 30.Rd7 } ) 28.Qe6 $1 1-0
+
+[Event "Biel SKA"]
+[Site "?"]
+[Date "1996"]
+[Round "10"]
+[White "Portisch, L."]
+[Black "Milov, V."]
+[Result "0-1"]
 [Annotator "Milov"]
-[PlyCount "63"]
-[EventDate "2001.06.05"]
+[BlackElo "2565"]
+[ECO "A48"]
+[EventDate "1996"]
+[WhiteElo "2600"]
 
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. b6 a5 7. Nc3 Ba6 8. b7 Ra7
-9. e4 Bxf1 10. Kxf1 d6 11. e5 $1 dxe5 12. Nxe5 Rxb7 13. Qa4+ Nfd7 (13... Nbd7
-14. Nc6 Qb6 15. Qxa5 $16) 14. Nc6 Qb6 (14... Qc8 15. Bf4 Na6 16. Re1 f6 17.
-Nxe7 Bxe7 18. d6 O-O 19. Qc4+ Kh8 20. dxe7 $18 {
-Stefansson-Djurhuus,Reykjavik 2000}) 15. Bf4 $1 {'><Nb8'} 15... Bg7 (15... Qxb2
-16. Rb1 Qxb1+ (16... Qxc3 17. Rxb7 Qd3+ 18. Kg1 $18) 17. Nxb1 Rxb1+ 18. Ke2 $18
-) (15... Na6 16. Nxa5 Qxb2 17. Re1 $18) 16. Nxb8 (16. Re1 $2 O-O $132) (16.
-Bxb8 $2 Qxb2 17. Re1 Nb6 $17) 16... Rxb8 17. Bxb8 Qxb2 (17... Qxb8 18. Re1 $18)
-18. Rb1 Qxc3 19. Ke2 $1 $18 Qd4 (19... O-O 20. Rhc1 Nb6 21. Qc6 $18 (21. Qb5 $2
-Nxd5)) 20. Qxd4 Bxd4 21. d6 $1 f5 22. Rb7 Rf8 (22... Kd8 23. Rhb1 Re8 24. Bc7+
-Kc8 25. Bxa5 $18) 23. Re1 Rf6 (23... Rf7 24. Kd3 (24. f4 $5 Nxb8 25. Rxb8+ Kd7
-26. dxe7 Rxe7+ 27. Kd1 $18) 24... Bxf2 25. Rxe7+ Rxe7 26. dxe7 Kxe7 27. Kc4 Ke6
-28. a4 $18) 24. Kd3 e5 25. Reb1 $1 e4+ (25... Bxf2 26. Kc4) 26. Kc4 Bxf2 27.
-Kd5 e3 28. Rxd7 $1 Kxd7 29. Rb7+ Kd8 (29... Ke8 30. d7+ Ke7 (30... Kd8 31. Bc7+
-) 31. Bc7 Kxd7 32. Be5+ Kc8 33. Rb8+ Kd7 34. Bxf6 e2 35. Bc3 e1=Q 36. Bxe1 Bxe1
-37. Rb7+ Ke8 38. Rxh7 $18) (29... Kc8 30. Kc6 $1 (30. d7+) 30... e2 31. Bc7 $18
-) 30. Bc7+ Ke8 (30... Kd7 31. Bxa5+) 31. Rb8+ Kf7 32. d7 1-0
+1.d4 Nf6 2.Nf3 g6 3.b3 Bg7 4.Bb2 O-O 5.e3 ( 5.g3 d6 6.Bg2 e5 7.dxe5 Nfd7
+8.O-O Nc6 ) 5...d6 6.Be2 e5 ( 6...b6 $5 ) 7.dxe5 Nfd7 8.c4 dxe5 9.Qc1 Nc6
+10.O-O f5 ( 10...e4 $5 11.Bxg7 Kxg7 12.Qc3+ Qf6 13.Nfd2 Re8 14.Rd1 h5 $11 )
+11.Rd1 Qe8 12.Nc3 e4 13.Ne1 Nde5 ( 13...Nf6 $5 14.Nd5 Rf7 15.Bc3 Nxd5 16.cxd5
+Ne5 $13 ) 14.Nd5 Rf7 15.b4 Nd8 16.Bc3 Rd7 ( 16...c6 $5 ) 17.Qb2 ( 17.Qa3 $1 )
+17...Ndf7 18.Nc2 ( 18.Qa3 $5 ) 18...g5 19.b5 ( 19.Nd4 c6 20.Nxf5 Rxd5 ( 
+20...cxd5 21.Bh5 ) 21.Nxg7 Rxd1+ 22.Rxd1 Kxg7 23.Bh5 Kh6 ) 19...c6 20.Ndb4 a6
+21.bxc6 bxc6 22.Ne1 Rb7 23.Qa3 f4 ( 23...Qf8 $5 24.Rac1 Be6 25.Nbc2 c5 26.Rb1
+$13 ) ( 23...Qe7 $1 24.Rac1 $140 Bf8 ) 24.Nbc2 f3 25.gxf3 exf3 26.Nxf3 Bg4 ( 
+26...Bf5 27.Ncd4 Be4 28.Nd2 ) ( 26...g4 $1 27.Nxe5 Nxe5 28.Nd4 ( 28.Ne1 Bf5 )
+28...Qg6 $36 ( 28...Rf7 $36 ) ) 27.Nce1 $2 ( 27.Ncd4 $13 Qc8 $140 28.Nxe5
+Nxe5 29.f3 ) 27...Qe6 $2 ( 27...Qc8 $1 $19 ) 28.Nd4 Qh6 $44 29.f3 Bh3 30.Rd2
+( 30.Rab1 ) 30...Re8 31.Ndc2 $6 Qg6 32.Kf2 g4 33.f4 Ng5 $1
+{ White can not let the Knight come to e4 and has to take it. } 34.fxg5 Rf7+
+35.Kg1 Qf5 36.Nd3 Nxc4 $4 { Here being in time trouble I missed an easy win }
+( 36...Qe4 37.Nde1 Ref8 ) 37.Qb3 Nxd2 38.Bxd2 Bxa1 39.Nxa1 Bf1 $1 40.e4 $5
+{ Hoping for the perpetual check.The alternative would also leave Black good winning chances }
+( 40.Qd1 Bxe2 41.Qxe2 Rd8 $19 ) 40...Rxe4 41.Qb8+ Rf8 42.Qb3+ Re6 $1 ( 
+42...Kg7 43.Qc3+ ) 43.Nf4 Bxe2 44.Nc2 ( 44.Qxe6+ Qxe6 45.Nxe6 Rf1+ )
+44...Qc5+ $1 45.Ne3 ( 45.Be3 Qc4 46.Nxe6 Rf1+ 47.Kg2 Qe4+ ) 45...Rxf4
+46.Qxe6+ Rf7 47.g6 hxg6 48.Qxg6+ Kf8 49.Qe4 ( 49.Qe4 Rf1+ 50.Kg2 Bf3+ ) 0-1
 
-[Event "XVI Carlos Torre Mem"]
-[Site "Merida MEX"]
-[Date "2003.12.15"]
-[Round "4"]
-[White "Milov, V."]
-[Black "Luther, T."]
-[Result "1-0"]
-[ECO "D11"]
-[WhiteElo "2574"]
-[BlackElo "2580"]
+[Event "Biel"]
+[Site "?"]
+[Date "1997"]
+[Round "?"]
+[White "Anand, V."]
+[Black "Milov, V."]
+[Result "0-1"]
 [Annotator "Milov,V"]
-[PlyCount "57"]
-[EventDate "2003.12.12"]
+[BlackElo "2635"]
+[ECO "A30"]
+[EventDate "1997"]
+[WhiteElo "2765"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 {Not a long time ago people were
-laughing at such moves but now it became very popular and it seems that hardly
-anyone knows how to get an advantage in the lines 4.Nc3 a6, 3.Nc3 Nf6 4.e3 a6
-or the one that happened in our game.} 5. Bd3 Bg4 6. Qb3 ({and after} 6. Nbd2
-e6 7. O-O Nbd7 {there is no clear path for White to get an advantage, e.g.} 8.
-b3 Bd6 9. h3 Bf5 10. Qc2 Bxd3 11. Qxd3 O-O 12. Bb2 Qe7 {
-was about equal in Gurevich,M-Fressinet,L/Belfort 2003}) 6... Bxf3 7. gxf3 Ra7
-{This move doesn`t look very attractive and indeed more often Black prefers
-more natural 7...Qc7.  Justification of 7...Ra7, which is in my opinion not
-bad at all, is that rook can come into play along the 7th rank after b7-b5 or,
-as  the position remains closed it wouldn`t be a big problem for Black to lose
-time playing Ra7-a8 some day. I think in this moment none of us could imagine
-that this rook would stay on a7 for the rest of the game!} ({
-The above mentioned} 7... Qc7 {
-occurred in several games. In Van Wely-Bareev, Amber, 2003, after} 8. Nc3 e6 9.
-Bd2 Be7 10. Rc1 (10. c5 $5) 10... dxc4 11. Bxc4 Nbd7 12. Be2 O-O {
-Black achieved a satisfactory position}) 8. Nc3 e6 9. c5 (9. Bd2 {would allow}
-9... dxc4 10. Bxc4 b5 {followed by 11...c5}) 9... Nbd7 10. Bd2 ({
-if White would try to close the center by} 10. f4 {then} 10... b6 11. cxb6 Nxb6
-12. Na4 Nxa4 13. Qxa4 Qd7 {and Black is ready to play c6-c5}) 10... e5 ({now} 
-10... b6 {is more problematic for Black:} 11. cxb6 Nxb6 (11... Qxb6 $142 12.
-Qxb6 Nxb6 13. Ne2 $14) 12. Na4 Nxa4 13. Qxa4 Qd7 14. b4 $16) 11. Qc2 {
-So what is the White`s plan here? I want to castle long and thanks to the open
-"g"-file try to create some threats against the black king.} 11... g6 12. f4 $6
-{I didn`t see the difference between this move and 12.0-0-0, that I was going
-to play next.} ({Still,} 12. O-O-O {
-would be preferrable as White is not obliged to play f3-f4 in some variations:}
-12... b6 (12... Bh6 $6 {
-(hoping after 13.f4 to transpose to the position we had in the game)} 13. dxe5
-Nxe5 14. Be2 O-O 15. Na4 Bg7 16. Bc3 Qe7 17. h4 $16 {and the difference
-between this position and the one that happened in the game is obvious here}) (
-12... Bg7 13. f4) 13. cxb6 Qxb6 14. Kb1 {and White is slightly better}) 12...
-exd4 13. exd4 Bh6 $1 {This is the reason why I should have preferred to castle
-on move 12. After the dark-squared bishops are exchanged White will lack an
-important piece in the attack.} ({I was only counting on} 13... Bg7 14. O-O-O
-O-O 15. f5 b6 16. cxb6 Qxb6 17. Na4 Qc7 18. Kb1 Nh5 19. Be3 {
-with some advantage for White}) 14. O-O-O O-O 15. f5 Bxd2+ 16. Qxd2 Nh5 {
-Due to control over the dark squares Black has a satisfactory position.} (16...
-b6 {was the other option although it involved more risk:} 17. cxb6 Qxb6 18. Qh6
-Rb8 19. Rd2 c5 20. Rg1 Nf8 {with the unclear position} (20... cxd4 21. fxg6
-fxg6 22. Bxg6 hxg6 23. Rxg6+ Kf7 24. Rg7+ Ke6 25. Re2+ Ne5 (25... Kd6 26. Qf4+
-Kc5 27. Na4+) 26. f4 {winning})) 17. Rhg1 ({or} 17. h4 Qf6 18. Ne2 Raa8 19.
-Rdg1 Kh8 {
-and it`s also doubtful whether White can reach anything on the Kingside}) 17...
-Qh4 $6 {It seems that Thomas overestimates his position.} (17... Qf6 {
-defending the g6-pawn was better:} 18. Rg4 Ng7 19. Rdg1 Nxf5 20. Rf4 Kh8 21.
-Bxf5 gxf5 22. Qd3 Rg8 23. Rxg8+ Kxg8 24. Rxf5 Qh6+ 25. Kc2 Ra8 $1 {
-Finally bringing the rook into play Black manages to hold the balance.}) 18.
-Kb1 {
-aimed against 18...Qd4 which is now refuted by 19.fg fg 20.Bg6 and White wins.}
-18... Ndf6 $2 {Black is bringing the knight to the defence and black position
-seems indeed very solid but now surprisingly Black gets under smashing attack.}
-({or} 18... Nf4 19. Bc2 Nf6 (19... Raa8 20. f3 Nf6 21. Rg4 $18) 20. f3 g5 21.
-Qe1 $16) (18... Qf6 {was still the best defence.}) 19. fxg6 fxg6 20. Bxg6 $1 {
-there is no sense to sit and wait until Black plays Ra7-a8 and consolidates
-all his pieces.} 20... hxg6 21. Qh6 {Black has many pieces around his king but
-some of them are so ackwardly placed, especially the pinned knight on h5 and
-the queen on h4 that the black king is forced to leave his safe heaven and
-tries to save himself in the middle of the board.} 21... Kf7 (21... Nh7 22.
-Rxg6+ Kh8 23. Rg7 $18) (21... Qf4 22. Rxg6+ (22. Qxg6+ $2 Kh8 23. Rg5 Qc7)
-22... Kf7 23. Rg7+ Ke8 24. Re1+ Kd8 25. Rg5 Rf7 (25... Re8 26. Ree5 $3 {
-preparing 27.Rh5 Nh5 28.Qd6} 26... Qxh2 27. Rxh5 Qg1+ 28. Kc2 Qxf2+ 29. Kb3
-Rxe5 30. Rxe5 Nd7 31. Rg5 $18) 26. Qh8+ Kc7 27. Rge5 {
-and Black is helpless against the numerous threats, for example:} 27... Ng7 (
-27... Qxh2 28. Na4) 28. Re7+ Nd7 29. Qg8 Rxe7 30. Rxe7 Qxd4 31. Qxg7 Qxg7 32.
-Rxg7 $18) 22. Qxg6+ (22. Rxg6 {would have been a mistake in a view of} 22...
-Qxf2) 22... Ke7 23. Rde1+ Kd8 (23... Kd7 {is not better:} 24. Qf5+ Kd8 25. Qe6
-Ne8 (25... Nd7 26. Rg8 Qxf2 (26... Ra8 27. Nxd5 $1 cxd5 28. Rxf8+ Nxf8 29. Qb6+
-Kc8 30. c6 $18) 27. Qe8+ $1 Kc7 28. Rxf8 Qxf8 29. Qxh5 $18) 26. Qe5 Ra8 27.
-Nxd5 $3 cxd5 28. Qxd5+ Kc8 (28... Kc7 29. Rg5 {/\30.Re7}) 29. c6 Kb8 (29...
-bxc6 30. Rxe8+ $1 Rxe8 (30... Kc7 31. Qe5+ Kb7 32. Re7+) (30... Kb7 31. Qd7+
-Kb6 32. Re3) 31. Qxc6+ Kb8 32. Qb6+ Kc8 33. Rc1+ Kd7 34. Rc7+ Kd8 35. Qd6#) 30.
-cxb7 Ra7 31. Qc5 Rxb7 32. Qxf8 Rxb2+ 33. Ka1 $1 Nhf6 34. Rxe8+ Nxe8 35. Qxe8+ {
-winning}) 24. Qh6 {
-White has to hurry before Black manages to bring his a7-rook into play.} 24...
-Rf7 $2 {This so obvious move loses by force.} (24... Re8 {is not sufficient:}
-25. Rxe8+ Nxe8 26. Rg8 $18) (24... Nd7 {was the toughest defence after which
-it`s very difficult for White to keep the initiative.} {The computer now likes}
-25. Qh7 $1 {creating threats along the 7th rank and it looks like Black has to
-give up his knight on h5.} ({worse} 25. Na4 Qxd4 26. Nb6 Nhf6 {
-and White has no compensation for a piece}) (25. Rg3 Ra8 26. Rge3 Qg4 27. Na4
-Nhf6 28. Nb6 Rf7 {is unclear as well}) 25... Qxf2 {probably the best defence} (
-25... Kc7 {loses to} 26. Rg7 Rd8 27. Ree7 Qh3 28. Kc2 $1 {preventing Qf1+}
-28... b5 (28... b6 29. Na4) 29. Rgf7 Kc8 30. Ne2 Qg4 31. h3 Qxh3 32. Rf5 Nf8 (
-32... Qg2 33. Qxh5 Nf6 34. Qf7) 33. Rxf8 Rxf8 34. Rxa7 Qf5+ 35. Kd2 $18) (25...
-Ra8 26. Na4 Kc7 27. Nb6 Rad8 28. Rg7 Qh3 29. Rxd7+ Rxd7 30. Nxd7 Qf5+ 31. Qxf5
-Rxf5 32. Re7 Kd8 33. Rh7 Rxf2 34. Ne5 $18) (25... Qh3 26. Rg5 Nf4 27. Qe7+ Kc7
-28. Qd6+ Kc8 29. Na4 $18) (25... Qxd4 26. Qxh5 Qxf2 (26... Nxc5 27. Rd1 Qh8 (
-27... Qf6 28. Nxd5) (27... Qf4 28. Nxd5 Qe4+ 29. Ka1 cxd5 30. Rge1 Qc4 31.
-Rxd5+ Nd7 32. Qg5+ $18) 28. Qg5+ Kc8 (28... Qf6 29. Nxd5) 29. Qe7 Nd7 30. Rg7
-Qh3 31. Na4 Qf5+ 32. Ka1 Rd8 33. Nb6+ $18) 27. Na4 Kc7 28. Qg5 Qf4 (28... Qxh2
-29. Qe7) 29. Qxf4+ Rxf4 30. Rg7 Rxa4 (30... Kd8 31. Nb6 Nxc5 32. Ree7 $18) 31.
-Ree7 Rh4 32. Rxd7+ Kc8 33. Rdf7 Rh8 34. h4 $18) 26. Qxh5 Qxd4 {
-here White has a choice of 2 approximately equal options:} 27. Qg6 (27. Qg5+
-Kc8 28. h4 (28. Re7 Qxc5 29. Rc1 d4 30. Nd5 Qd6 31. Rg7 a5 32. h4 Ra6 33. h5
-Kb8) 28... Qxc5 (28... Nxc5 29. h5) 29. h5 d4 (29... b5 30. Ne2 Qf2 (30... Qd6
-31. Nd4) 31. h6 Qf6 32. Qg7 Qxg7 33. Rxg7 Rb7 34. Nd4 c5 35. Nc6 $18) 30. Ne4
-Qxg5 31. Rxg5 b5 (31... Kc7 32. Rg7) 32. Rd1 Nb6 33. Rxd4 Nd5 34. Rg6 Rc7 35.
-Nc5 a5 36. Rd1 {with a big advantage}) 27... Qxc5 (27... Qf6 28. Qxf6+ Rxf6 29.
-Rg8+ Rf8 30. Rxf8+ Nxf8 31. Na4 Ra8 32. Nb6 Rb8 33. h4 Nd7 34. Rg1 Nxc5 35.
-Rg8+ Kc7 36. Na8+ $18) (27... Nxc5 28. Qd6+ Nd7 29. Qe7+ Kc8 30. Rg7 Rd8 31. h4
-b5 32. h5 Rc7 (32... b4 33. Na4 Rh8 34. h6) 33. h6 Rh8 34. h7 Kb7 35. Ka1 a5
-36. Rf7 a4 37. Qd6 $16) 28. Qe6 Qd4 {and now} {or} 29. Rg6 (29. Rg8 Rxg8 30.
-Qxg8+ Kc7 31. Qg3+ Kd8 32. Ne2 (32. h4 Qf6) 32... Qf6 33. Nf4 b5 34. Ka1 $1 {
-this modest move means the beginning of the decisive attack!} (34. Ne6+ Kc8 35.
-Qd6 Nb8) 34... Kc8 (34... a5 35. a3 b4 36. Re6 Qd4 37. Rxc6 $18) 35. Re6 Qd8
-36. Rxc6+ Rc7 37. Rxc7+ Qxc7 38. Qg8+ Kb7 39. Qxd5+) 29... Qd3+ (29... Ra8 30.
-Qe7+ Kc8 (30... Kc7 31. Rd6 Rad8 32. Rxd7+) 31. Rd6 Rd8 32. Nxd5) (29... Kc7
-30. Qd6+ Kc8 31. h4 Qc5 (31... Rd8 32. Qg3) (31... Qxh4 32. Rge6 Rd8 33. Nxd5
-cxd5 34. Rc1+) 32. Qg3 b5 33. h5 (33. Ne2 $5) 33... Rc7 (33... Nf6 34. Re6 Raf7
-35. Qe5) 34. h6 Kb7 (34... Nf6 35. Rxf6 Rxf6 36. h7 Rxh7 37. Qg8+) 35. h7 Rh8
-36. Rg7 b4 37. Na4 Qd4 38. Ka1 c5 39. Rf7) 30. Ka1 Kc8 31. Rg8 Rxg8 32. Qxg8+
-Kc7 33. Rc1 d4 (33... Nc5 34. b4 Nd7 35. Nxd5+ Kd6 36. Qg1 (36. Nc3 Kc7 37. h4
-$16) 36... cxd5 (36... Ra8 37. Nb6) 37. Qxa7 Qd2 38. Qg1 $16) 34. Nd5+ Kd6 35.
-Nf4 Qf5 36. Rf1 c5 37. h4 b6 (37... d3 38. Rf3) 38. h5 Kc6 39. Qg2+ Kb5 40. b3
-a5 41. Qe2+ Kc6 42. Nd3 Qd5 43. h6 a4 44. b4 c4 45. b5+ Kb7 (45... Qxb5 46. h7)
-46. Nb4 d3 47. Nxd5 dxe2 48. Re1 Ra8 49. Rxe2 Rh8 50. Re7 Kc8 51. h7 $18 {
-and White wins. Probably the above seen lines don`t show all defensive
-possibilities but from them we can see how dangerous White`s initiative is.})
-25. Rg8+ $1 {appearance of this rook on the 8th rank means even more trouble
-to the black king, moreover it means that the rook on a7 probably will never
-come into play...} 25... Kc7 (25... Nxg8 26. Qd6+ {with mate}) 26. Rf8 {
-putting the rook in a more "comfortable" place and keeping to chase the black
-rook.} ({
-when analysing the game I discovered another nice possibility for White:} 26.
-Qh8 $5 Qh3 (26... Nxg8 27. Qe5+ Kc8 28. Na4 b5 29. Qe6+ Rfd7 30. Nb6+ Kb8 31.
-Nxd7+) 27. Rb8 Qd7 28. Na4 {winning}) 26... Rh7 {
-allowing the beautiful final, but there was no defence anyway.} (26... Rd7 27.
-Qh8 $18) (26... Rg7 27. Na4 Qxd4 28. Qh8 Qd3+ 29. Ka1 Qe4 30. Rc8+ Kd7 31. Nb6+
-) 27. Na4 $3 {Comes completely unexpectedly. The knight suddenly is joining
-the mating attack.} ({There was another winning option:} 27. Qg6 Rd7 28. Ree8
-Nxe8 29. Qxe8 Rd8 30. Qe5+ Kc8 31. Rf7 Rd7 32. Qf5 Qd8 33. Na4 $18 {
-but I like 27.Na4!! a lot more.}) 27... Rxh6 (27... Qh3 28. Nb6 Rxh6 29. Re7+ {
-followed by 30.Rc8 mate.}) (27... Qxf2 28. Qxh7+ Nxh7 29. Re7#) 28. Nb6 ({
-Here it was not too late for White to make a mistake:} 28. Re7+ $2 Nd7 29. Nb6
-{and it seems that there is no defence against 30.Rc8 but...} 29... Qe4+ $3 {
-still, White could make a draw after} 30. Kc1 Qe1+ 31. Kc2 Qe2+ 32. Kc1 Qc4+
-33. Kb1 Qf1+ {with a perpetual}) 28... Qe4+ (28... Qh3 29. Re7+ {except the
-g and some pawns White used all his pieces to deliver mate to the Black king.})
-29. Rxe4 1-0
+{ 70/32 } 1.Nf3 Nf6 2.c4 c5 3.g3 b6 4.Bg2 Bb7 5.O-O g6 6.Nc3 Bg7 7.d4 ( 7.b3
+O-O 8.Bb2 Na6 9.d4 d5 $10 ) 7...cxd4 8.Qxd4 d6
+{ 'It's very important in this position to postpone castling, otherwise the White queen will find a very nice square on h4 with the good attacking chances. So, Black just continues developing.' }
+9.Rd1 Nbd7 10.b3 ( 10.Be3 { - 70/(32) } ) 10...Rc8 11.Bb2 O-O 12.Qe3 ( 
+12.Rac1 a6 13.Ne1 $5 Bxg2 { '=' } ( 13...Nd5 $11 ) 14.Nxg2 Ne5 $5 ( 14...Rc5
+$6 15.Nd5 $14 { - 61/(34) } ) ) 12...a6 ( 12...Re8
+{ was played in Karpov-Kasparov(Leningrad,match,1986). The game continued: }
+13.Rac1 a6 14.Ba1 Rc5 $1 15.a4 Qa8 { with a good game. } ) 13.Nd4 $146 ( 
+13.Rac1 { - 68/32 } ) 13...Bxg2 14.Kxg2 Rc5 ( 14...Re8 $5 ) ( 14...Re8
+15.Rac1 Rc5 16.h3 Qc8 $1
+{ aiming at the h3-pawn and threatening 17...b5, as was in the game Plaskett-Adorian,Hastings,1986 }
+) 15.f3 Re8 16.Qd2 ( 16.Ba3 $5 $14 ) ( 16.Ba3 $5 ) 16...Qb8 { /\ b5 } 17.Ba3
+{ 'Preventing 17...b5' } 17...Rcc8 18.Rac1 Qb7
+{ 'Apart from the idea b6-b5 Black's plan includes the preparation andrealisation of the break d6-d5. Preventing this, White will have to play e2-e4 but then his King will feel quite vulnerable.' }
+19.e4 h5 $1 { ><Kg2 } 20.Bb2 Ne5 21.Qe2 ( 21.Qf2 e6 { /\ g5-g4|^ } ) 21...e6
+$132 22.Ba3 ( 22.Nc2 Rcd8 23.Ne3 g5 $1 $36 { '!' 'with an initiative' } )
+22...Rcd8 ( 22...d5 $5 23.Bd6 ( 23.cxd5 exd5 24.Nxd5 $2 Nxd5 25.Rxc8 Qxc8
+26.exd5 Ng4 { '-+' } ) 23...Nc6 24.Nxc6 Rxc6 25.e5 Nd7 $15
+{ ><e5 'White is facing problems due to the weakness of the e5-pawn and the possibility of doubling Black rooks on the c-file in the future' }
+26.f4 $140 dxc4 ) 23.Rc2 d5 ( 23...g5 $5 24.Bc1 $140 g4 25.Bg5 Rc8 ) ( 
+23...g5 $5 ) 24.f4 $2 { 'A losing move.' } ( 24.cxd5 exd5 25.f4 Ned7 ( 
+25...Neg4 26.e5 Ne4 27.Nxe4 dxe4 28.h3 e3+ 29.Nc6 $13 ) 26.e5 Nc5 27.b4 $140
+Nce4 $15 { 'and Black is only slightly better.' } ) 24...Neg4 25.cxd5 ( 
+25.h3 Nxe4 $1 26.hxg4 Nxc3 27.Rxc3 dxc4+ $19 ) 25...Nxe4 $1 $17 { '!' } ( 
+25...exd5 $6 26.e5 { - 24.cd5 } ) 26.Nxe4 ( 26.Qxe4 exd5 { /\ Ne3, Bd4 } )
+26...exd5 27.Nc6 Rxe4 28.Qxe4 dxe4 29.Rxd8+ ( 29.Nxd8 $2 Ne3+ 30.Kg1 Qa8 $19
+) 29...Kh7
+{ 'Although Whi te has two Rooks for for the Black queen, his position is losing due to the open position of his King who will soon find himself under attack.' }
+30.Bc1 e3 31.Kf3 Nxh2+ 32.Ke2 ( 32.Kxe3 Bf6 $19 ) 32...Bf6 $1 $19
+{ 'The Rook is no longer able to keep the squares c8 and d7 under control and the Queen comes into play.' }
+33.Rd5 ( 33.Rd6 Be7 { /\ Bc5 } ) 33...Qc8 34.f5 $8 ( 34.Bxe3 Qg4+ 35.Kd3 Nf1
+$19 { -> } ) 34...gxf5 ( 34...Qe8 $5 35.fxg6+ Kxg6 36.Nd4 ( 36.Rc4 b5 ) ( 
+36.Kd3 e2 ) 36...Qe4 37.Rd6 Ng4 { /\ Qg2-+ '-+' } ) 35.Nd4 ( 35.Bxe3 Qe8 )
+35...Qa8 ( 35...Qg8 36.Kd3 $8 Qg4 37.Rxh2 Qe4+ 38.Kc4 e2 39.Bd2 ( 39.Rxe2 b5+
+40.Kc5 Bxd4+ ) 39...Bxd4 40.Rxh5+ Kg6 41.Rg5+ Kf6 42.Rd6+ Ke7 43.Rxd4 Qc2+
+44.Kd5 Qc5# ) 36.Rxf5 ( 36.Nc6 Qg8 ) 36...Bxd4 ( 36...Ng4 $6 37.Nf3 Qe4 ( 
+37...Kg6 38.Rf4 ) 38.Rxh5+ Kg6 39.Rc4 ) 37.Rxh5+ Kg6 38.Rxh2 Qe4 39.Rc4 $8 ( 
+39.Kd1 Qd3+ $19 ) ( 39.Ke1 Be5 $19 ) ( 39.Kf1 Qf3+ $19 ) 39...b5 ( 39...Qg4+
+40.Kd3 Qd1+ 41.Bd2 Bc5 42.Rc1 ( 42.Rxc5 bxc5 43.Kxe3 Qc2 $19 ) 42...Qf3
+43.Be1 ( 43.Bc3 e2+ 44.Kd2 ( 44.Kc2 Bf2 ) 44...Bf2 ) 43...e2+ 44.Kd2 ( 
+44.Kc2 Ba3 { winning. } ) 44...Ba3 $19 ) 40.Rxd4 Qxd4
+{ '# Hecht: Obwohl sich Anand nach Kraeften bemueht, die Stellung zu blockieren und seine Figuren beisammenzuhalten, gelingt Schwarz wegen der Schwaechen b4 und g3 ein leichter Gewinn. ' }
+41.Bxe3 Qb2+ 42.Bd2 Qxa2 ( 42...a5 $6 43.Rh6+ Kg7 44.Rh5 $1 { Anand,V } ( 
+44.Ra6 a4 $1 ) ) 43.b4 Qc4+ ( 43...a5 $6 44.bxa5 b4 45.Rh6+ Kf5 46.Rb6 b3
+47.a6 $11 { 'and the pawns are equally strong.' } ) 44.Kf2 Qd4+ $6 ( 
+44...Qd3 $1 45.Be1 a5 46.bxa5 b4 $19 { Anand,V } ) 45.Ke2 Qc4+ 46.Kf2 Qd4+
+47.Ke2 Qg1 48.Rh6+ Kf5 ( 48...Kg7 49.Rxa6 Qxg3 $19 ) 49.Rh5+ ( 49.Be1 Qg2+
+50.Ke3 Qe4+ 51.Kf2 Qc2+ 52.Kf1 ( 52.Ke3 Qc1+ 53.Bd2 Qg1+ 54.Kf3 Qd1+ 55.Ke3
+Kg4 $19 ) 52...Kg4 $19 ) 49...Kf6 $4 { '?' 'A really bad move.' } ( 49...Kg4
+50.Rg5+ ( 50.Rh4+ Kxg3 51.Be1+ Qxe1+ ) 50...Kh3 51.Rf5 Qg2+ 52.Ke3 Qc6 $19
+{ 'and Black wins' } ) 50.Bf4 $4 { '?' 'Returning the favour.' } ( 50.Be1
+Qg2+ 51.Ke3 Qg1+ ( 51...Qf1 52.Kd2
+{ Next White puts his Rook on h4 and I don't see how Black can improve his position. }
+) 52.Kd2 { /\ Rh4=/+ Anand,V } ) 50...Qg2+ 51.Ke3 Qa2 $19 { ><b4 } 52.Rh4 ( 
+52.Rh6+ Kf5 53.Rh5+ Ke6 54.Re5+ Kf6 55.Re4 Kf5 56.Re5+ Kg4 57.Rg5+ Kh3 $19 )
+52...Kf5 53.Bh6 ( 53.Bc7 Qb3+ 54.Kd2 a5 $5 55.bxa5 b4 ) ( 53.Rh5+ Ke6
+{ - 52.Rh6 } ) 53...Qg2 $1
+{ 'Conquering the other pawn. The rest is simple.' } 54.g4+ Ke6 55.Bf4 Kd5
+56.Rh5+ Kc4 57.Rh6 Qxg4 58.Rxa6 Kxb4 59.Rd6 Qf5 60.Rd4+ Kc3 61.Re4 Qd5 0-1
 
 [Event "Eu Team Ch"]
 [Site "Batumi GEO"]
@@ -501,108 +233,93 @@ g and some pawns White used all his pieces to deliver mate to the Black king.})
 [White "Kacheishvili, G."]
 [Black "Milov, V."]
 [Result "0-1"]
-[ECO "E32"]
-[WhiteElo "2577"]
-[BlackElo "2626"]
 [Annotator "Milov"]
-[PlyCount "42"]
+[BlackElo "2626"]
+[ECO "E32"]
 [EventDate "1999.11.06"]
+[WhiteElo "2577"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Ba6 8.
-e3 d6 9. Qc2 Nbd7 10. Ne2 Qc8 $1 (10... c5) 11. Nc3 c5 12. O-O-O (12. d5 exd5
-13. cxd5 Bxf1 14. Kxf1 Re8 15. Kg1 h6 16. Bh4 (16. Bf4 Ne5) 16... c4 $36) 12...
-cxd4 13. Rxd4 Qc5 14. Bxf6 (14. Bh4 $2 e5) 14... Nxf6 15. Be2 Rac8 16. Rhd1 $6
-(16. Kb1 e5 17. Rh4 d5 $1 18. b4 $5 (18. Nxd5 Qxd5 19. cxd5 Rxc2 20. Kxc2 Bxe2
-$17) (18. cxd5 Bxe2 19. Qxe2 Nxd5 $15 {><Rh4}) 18... Qd6 19. c5 bxc5 20. Bxa6
-Qxa6 21. Nxd5 e4 22. Ne7+ Kh8 23. Nxc8 Rxc8 24. Qb3 (24. Rc1 Qxa3 25. Qc3 Qa4
-$19) 24... cxb4 25. axb4 Rb8 26. Rc1 (26. Rd1 Qe2) 26... Qd6 27. Rc4 a5 $17)
-16... d5 17. cxd5 $2 (17. Qa4 $5 Bxc4 (17... Qa5 18. Qxa5 bxa5 19. b3 $14) 18.
-Bxc4 dxc4 19. Qxa7 $13) 17... Bxe2 18. Qxe2 Nxd5 $17 19. R1d3 (19. R4d3 Nxc3 (
-19... Qa5 20. Qd2 b5 21. Kb1) (19... Qc4 20. Qd2 Qh4 21. h3 Nxc3 $15) 20. Rxc3
-Qg5 21. f4 Rxc3+ 22. bxc3 Qc5 $17) 19... Qd6 $1 (19... b5 20. Kb1 b4 21. axb4 (
-21. Nxd5 Qc1+ 22. Ka2 Rc2 $19) 21... Nxb4 22. Rd2 (22. Rd1 Rb8 23. Qc4 Qf5+)
-22... Nc6 (22... Qa5 23. Qb5) (22... a6 $5) (22... Rb8 23. Qc4 Qa5 24. Rd7 Rfc8
-$13) 23. Rc4 Qb6 24. Na4 Qb8 25. Rdc2 $13) 20. Qh5 (20. h3 Nxc3) (20. Kb1 Nxc3+
-21. Rxc3 Qxh2 22. Rxc8 Rxc8 23. Qc2 Qb8) 20... Rc5 $1 $19 21. b4 (21. Rh4 h6
-22. Kd2 (22. Qg4 Rfc8) 22... Nxc3 23. Rxd6 Rxh5 24. Rxh5 Ne4+ $19) 21... Nxb4
-$1 (21... Rcc8 $2 22. Kd2 $14) (21... Nxb4 22. Qxh7+ (22. axb4 Qxd4 23. Qxc5
-Qxd3) 22... Kxh7 23. Rh4+ Kg8 24. Rxd6 Na2+ $19) 0-1
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Bg5 Ba6 8.e3 d6
+9.Qc2 Nbd7 10.Ne2 Qc8 $1 ( 10...c5 ) 11.Nc3 c5 12.O-O-O ( 12.d5 exd5 13.cxd5
+Bxf1 14.Kxf1 Re8 15.Kg1 h6 16.Bh4 ( 16.Bf4 Ne5 ) 16...c4 $36 ) 12...cxd4
+13.Rxd4 Qc5 14.Bxf6 ( 14.Bh4 $2 e5 ) 14...Nxf6 15.Be2 Rac8 16.Rhd1 $6 ( 
+16.Kb1 e5 17.Rh4 d5 $1 18.b4 $5 ( 18.Nxd5 Qxd5 19.cxd5 Rxc2 20.Kxc2 Bxe2 $17
+) ( 18.cxd5 Bxe2 19.Qxe2 Nxd5 $15 { ><Rh4 } ) 18...Qd6 19.c5 bxc5 20.Bxa6
+Qxa6 21.Nxd5 e4 22.Ne7+ Kh8 23.Nxc8 Rxc8 24.Qb3 ( 24.Rc1 Qxa3 25.Qc3 Qa4 $19
+) 24...cxb4 25.axb4 Rb8 26.Rc1 ( 26.Rd1 Qe2 ) 26...Qd6 27.Rc4 a5 $17 )
+16...d5 17.cxd5 $2 ( 17.Qa4 $5 Bxc4 ( 17...Qa5 18.Qxa5 bxa5 19.b3 $14 )
+18.Bxc4 dxc4 19.Qxa7 $13 ) 17...Bxe2 18.Qxe2 Nxd5 $17 19.R1d3 ( 19.R4d3 Nxc3
+( 19...Qa5 20.Qd2 b5 21.Kb1 ) ( 19...Qc4 20.Qd2 Qh4 21.h3 Nxc3 $15 ) 20.Rxc3
+Qg5 21.f4 Rxc3+ 22.bxc3 Qc5 $17 ) 19...Qd6 $1 ( 19...b5 20.Kb1 b4 21.axb4 ( 
+21.Nxd5 Qc1+ 22.Ka2 Rc2 $19 ) 21...Nxb4 22.Rd2 ( 22.Rd1 Rb8 23.Qc4 Qf5+ )
+22...Nc6 ( 22...Qa5 23.Qb5 ) ( 22...a6 $5 ) ( 22...Rb8 23.Qc4 Qa5 24.Rd7 Rfc8
+$13 ) 23.Rc4 Qb6 24.Na4 Qb8 25.Rdc2 $13 ) 20.Qh5 ( 20.h3 Nxc3 ) ( 20.Kb1
+Nxc3+ 21.Rxc3 Qxh2 22.Rxc8 Rxc8 23.Qc2 Qb8 ) 20...Rc5 $1 $19 21.b4 ( 21.Rh4
+h6 22.Kd2 ( 22.Qg4 Rfc8 ) 22...Nxc3 23.Rxd6 Rxh5 24.Rxh5 Ne4+ $19 ) 21...Nxb4
+$1 ( 21...Rcc8 $2 22.Kd2 $14 ) ( 21...Nxb4 22.Qxh7+ ( 22.axb4 Qxd4 23.Qxc5
+Qxd3 ) 22...Kxh7 23.Rh4+ Kg8 24.Rxd6 Na2+ $19 ) 0-1
 
-[Event "Biel"]
-[Site "?"]
-[Date "1997.??.??"]
-[Round "?"]
-[White "Anand, V."]
-[Black "Milov, V."]
-[Result "0-1"]
-[ECO "A30"]
-[WhiteElo "2765"]
-[BlackElo "2635"]
-[Annotator "Milov,V"]
-[PlyCount "122"]
-[EventDate "1997.??.??"]
+[Event "2nd IECC"]
+[Site "Ohrid MKD"]
+[Date "2001.06.06"]
+[Round "6"]
+[White "Milov, V."]
+[Black "De Vreugt, D."]
+[Result "1-0"]
+[Annotator "Milov"]
+[BlackElo "2460"]
+[ECO "A57"]
+[EventDate "2001.06.05"]
+[WhiteElo "2605"]
 
-{70/32} 1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O g6 6. Nc3 Bg7 7. d4 (7.
-b3 O-O 8. Bb2 Na6 9. d4 d5 $10) 7... cxd4 8. Qxd4 d6 {'It's very important in
-this position to postpone castling, otherwise the White queen will find a very
-nice square on h4 with the good attacking chances. So, Black just continues
-developing.'} 9. Rd1 Nbd7 10. b3 (10. Be3 {- 70/(32)}) 10... Rc8 11. Bb2 O-O
-12. Qe3 (12. Rac1 a6 13. Ne1 $5 Bxg2 {'='} (13... Nd5 $11) 14. Nxg2 Ne5 $5 (
-14... Rc5 $6 15. Nd5 $14 {- 61/(34)})) 12... a6 (12... Re8 {
-was played in Karpov-Kasparov(Leningrad,match,1986). The game continued:} 13.
-Rac1 a6 14. Ba1 Rc5 $1 15. a4 Qa8 {with a good game.}) 13. Nd4 $146 (13. Rac1 {
-- 68/32}) 13... Bxg2 14. Kxg2 Rc5 (14... Re8 $5) (14... Re8 15. Rac1 Rc5 16. h3
-Qc8 $1 {aiming at the h3-pawn and threatening 17...b5, as was in the game
-Plaskett-Adorian,Hastings,1986}) 15. f3 Re8 16. Qd2 (16. Ba3 $5 $14) (16. Ba3
-$5) 16... Qb8 {/\ b5} 17. Ba3 {'Preventing 17...b5'} 17... Rcc8 18. Rac1 Qb7 {
-'Apart from the idea b6-b5 Black's plan includes the preparation andrealisation
-of the break d6-d5. Preventing this, White will have to play e2-e4 but then
-his King will feel quite vulnerable.'} 19. e4 h5 $1 {><Kg2} 20. Bb2 Ne5 21. Qe2
-(21. Qf2 e6 {/\ g5-g4|^}) 21... e6 $132 22. Ba3 (22. Nc2 Rcd8 23. Ne3 g5 $1 $36
-{'!' 'with an initiative'}) 22... Rcd8 (22... d5 $5 23. Bd6 (23. cxd5 exd5 24.
-Nxd5 $2 Nxd5 25. Rxc8 Qxc8 26. exd5 Ng4 {'-+'}) 23... Nc6 24. Nxc6 Rxc6 25. e5
-Nd7 $15 {><e5 'White is facing problems due to the weakness of the e5-pawn and
-the possibility of doubling Black rooks on the c-file in the future'} 26. f4
-$140 dxc4) 23. Rc2 d5 (23... g5 $5 24. Bc1 $140 g4 25. Bg5 Rc8) (23... g5 $5)
-24. f4 $2 {'A losing move.'} (24. cxd5 exd5 25. f4 Ned7 (25... Neg4 26. e5 Ne4
-27. Nxe4 dxe4 28. h3 e3+ 29. Nc6 $13) 26. e5 Nc5 27. b4 $140 Nce4 $15 {
-'and Black is only slightly better.'}) 24... Neg4 25. cxd5 (25. h3 Nxe4 $1 26.
-hxg4 Nxc3 27. Rxc3 dxc4+ $19) 25... Nxe4 $1 $17 {'!'} (25... exd5 $6 26. e5 {
-- 24.cd5}) 26. Nxe4 (26. Qxe4 exd5 {/\ Ne3, Bd4}) 26... exd5 27. Nc6 Rxe4 28.
-Qxe4 dxe4 29. Rxd8+ (29. Nxd8 $2 Ne3+ 30. Kg1 Qa8 $19) 29... Kh7 {'Although Whi
-te has two Rooks for for the Black queen, his position is losing due to the
-open position of his King who will soon find himself under attack.'} 30. Bc1 e3
-31. Kf3 Nxh2+ 32. Ke2 (32. Kxe3 Bf6 $19) 32... Bf6 $1 $19 {'The Rook is no
-longer able to keep the squares c8 and d7 under control and the Queen comes
-into play.'} 33. Rd5 (33. Rd6 Be7 {/\ Bc5}) 33... Qc8 34. f5 $8 (34. Bxe3 Qg4+
-35. Kd3 Nf1 $19 {->}) 34... gxf5 (34... Qe8 $5 35. fxg6+ Kxg6 36. Nd4 (36. Rc4
-b5) (36. Kd3 e2) 36... Qe4 37. Rd6 Ng4 {/\ Qg2-+ '-+'}) 35. Nd4 (35. Bxe3 Qe8)
-35... Qa8 (35... Qg8 36. Kd3 $8 Qg4 37. Rxh2 Qe4+ 38. Kc4 e2 39. Bd2 (39. Rxe2
-b5+ 40. Kc5 Bxd4+) 39... Bxd4 40. Rxh5+ Kg6 41. Rg5+ Kf6 42. Rd6+ Ke7 43. Rxd4
-Qc2+ 44. Kd5 Qc5#) 36. Rxf5 (36. Nc6 Qg8) 36... Bxd4 (36... Ng4 $6 37. Nf3 Qe4
-(37... Kg6 38. Rf4) 38. Rxh5+ Kg6 39. Rc4) 37. Rxh5+ Kg6 38. Rxh2 Qe4 39. Rc4
-$8 (39. Kd1 Qd3+ $19) (39. Ke1 Be5 $19) (39. Kf1 Qf3+ $19) 39... b5 (39... Qg4+
-40. Kd3 Qd1+ 41. Bd2 Bc5 42. Rc1 (42. Rxc5 bxc5 43. Kxe3 Qc2 $19) 42... Qf3 43.
-Be1 (43. Bc3 e2+ 44. Kd2 (44. Kc2 Bf2) 44... Bf2) 43... e2+ 44. Kd2 (44. Kc2
-Ba3 {winning.}) 44... Ba3 $19) 40. Rxd4 Qxd4 {'# Hecht:  Obwohl sich Anand
-nach Kraeften bemueht, die Stellung zu blockieren und seine Figuren
-beisammenzuhalten, gelingt Schwarz wegen der Schwaechen b4 und g3 ein leichter
-Gewinn. '} 41. Bxe3 Qb2+ 42. Bd2 Qxa2 (42... a5 $6 43. Rh6+ Kg7 44. Rh5 $1 {
-Anand,V} (44. Ra6 a4 $1)) 43. b4 Qc4+ (43... a5 $6 44. bxa5 b4 45. Rh6+ Kf5 46.
-Rb6 b3 47. a6 $11 {'and the pawns are equally strong.'}) 44. Kf2 Qd4+ $6 (44...
-Qd3 $1 45. Be1 a5 46. bxa5 b4 $19 {Anand,V}) 45. Ke2 Qc4+ 46. Kf2 Qd4+ 47. Ke2
-Qg1 48. Rh6+ Kf5 (48... Kg7 49. Rxa6 Qxg3 $19) 49. Rh5+ (49. Be1 Qg2+ 50. Ke3
-Qe4+ 51. Kf2 Qc2+ 52. Kf1 (52. Ke3 Qc1+ 53. Bd2 Qg1+ 54. Kf3 Qd1+ 55. Ke3 Kg4
-$19) 52... Kg4 $19) 49... Kf6 $4 {'?' 'A really bad move.'} (49... Kg4 50. Rg5+
-(50. Rh4+ Kxg3 51. Be1+ Qxe1+) 50... Kh3 51. Rf5 Qg2+ 52. Ke3 Qc6 $19 {
-'and Black wins'}) 50. Bf4 $4 {'?' 'Returning the favour.'} (50. Be1 Qg2+ 51.
-Ke3 Qg1+ (51... Qf1 52. Kd2 {Next White puts his Rook on h4 and I don't see
-how Black can improve his position.}) 52. Kd2 {/\ Rh4=/+ Anand,V}) 50... Qg2+
-51. Ke3 Qa2 $19 {><b4} 52. Rh4 (52. Rh6+ Kf5 53. Rh5+ Ke6 54. Re5+ Kf6 55. Re4
-Kf5 56. Re5+ Kg4 57. Rg5+ Kh3 $19) 52... Kf5 53. Bh6 (53. Bc7 Qb3+ 54. Kd2 a5
-$5 55. bxa5 b4) (53. Rh5+ Ke6 {- 52.Rh6}) 53... Qg2 $1 {
-'Conquering the other pawn. The rest is simple.'} 54. g4+ Ke6 55. Bf4 Kd5 56.
-Rh5+ Kc4 57. Rh6 Qxg4 58. Rxa6 Kxb4 59. Rd6 Qf5 60. Rd4+ Kc3 61. Re4 Qd5 0-1
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 g6 5.cxb5 a6 6.b6 a5 7.Nc3 Ba6 8.b7 Ra7 9.e4
+Bxf1 10.Kxf1 d6 11.e5 $1 dxe5 12.Nxe5 Rxb7 13.Qa4+ Nfd7 ( 13...Nbd7 14.Nc6
+Qb6 15.Qxa5 $16 ) 14.Nc6 Qb6 ( 14...Qc8 15.Bf4 Na6 16.Re1 f6 17.Nxe7 Bxe7
+18.d6 O-O 19.Qc4+ Kh8 20.dxe7 $18 { Stefansson-Djurhuus,Reykjavik 2000 } )
+15.Bf4 $1 { '><Nb8' } 15...Bg7 ( 15...Qxb2 16.Rb1 Qxb1+ ( 16...Qxc3 17.Rxb7
+Qd3+ 18.Kg1 $18 ) 17.Nxb1 Rxb1+ 18.Ke2 $18 ) ( 15...Na6 16.Nxa5 Qxb2 17.Re1
+$18 ) 16.Nxb8 ( 16.Re1 $2 O-O $132 ) ( 16.Bxb8 $2 Qxb2 17.Re1 Nb6 $17 )
+16...Rxb8 17.Bxb8 Qxb2 ( 17...Qxb8 18.Re1 $18 ) 18.Rb1 Qxc3 19.Ke2 $1 $18 Qd4
+( 19...O-O 20.Rhc1 Nb6 21.Qc6 $18 ( 21.Qb5 $2 Nxd5 ) ) 20.Qxd4 Bxd4 21.d6 $1
+f5 22.Rb7 Rf8 ( 22...Kd8 23.Rhb1 Re8 24.Bc7+ Kc8 25.Bxa5 $18 ) 23.Re1 Rf6 ( 
+23...Rf7 24.Kd3 ( 24.f4 $5 Nxb8 25.Rxb8+ Kd7 26.dxe7 Rxe7+ 27.Kd1 $18 )
+24...Bxf2 25.Rxe7+ Rxe7 26.dxe7 Kxe7 27.Kc4 Ke6 28.a4 $18 ) 24.Kd3 e5 25.Reb1
+$1 e4+ ( 25...Bxf2 26.Kc4 ) 26.Kc4 Bxf2 27.Kd5 e3 28.Rxd7 $1 Kxd7 29.Rb7+ Kd8
+( 29...Ke8 30.d7+ Ke7 ( 30...Kd8 31.Bc7+ ) 31.Bc7 Kxd7 32.Be5+ Kc8 33.Rb8+
+Kd7 34.Bxf6 e2 35.Bc3 e1=Q 36.Bxe1 Bxe1 37.Rb7+ Ke8 38.Rxh7 $18 ) ( 29...Kc8
+30.Kc6 $1 ( 30.d7+ ) 30...e2 31.Bc7 $18 ) 30.Bc7+ Ke8 ( 30...Kd7 31.Bxa5+ )
+31.Rb8+ Kf7 32.d7 1-0
+
+[Event "2nd IECC"]
+[Site "Ohrid MKD"]
+[Date "2001.06.06"]
+[Round "6"]
+[White "Milov, V."]
+[Black "De Vreugt, D."]
+[Result "1-0"]
+[Annotator "Milov"]
+[BlackElo "2460"]
+[ECO "A57"]
+[EventDate "2001.06.05"]
+[WhiteElo "2605"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 g6 5.cxb5 a6 6.b6 a5 7.Nc3 Ba6 8.b7 Ra7 9.e4
+Bxf1 10.Kxf1 d6 11.e5 $1 dxe5 12.Nxe5 Rxb7 13.Qa4+ Nfd7 ( 13...Nbd7 14.Nc6
+Qb6 15.Qxa5 $16 ) 14.Nc6 Qb6 ( 14...Qc8 15.Bf4 Na6 16.Re1 f6 17.Nxe7 Bxe7
+18.d6 O-O 19.Qc4+ Kh8 20.dxe7 $18 { Stefansson-Djurhuus,Reykjavik 2000 } )
+15.Bf4 $1 { '><Nb8' } 15...Bg7 ( 15...Qxb2 16.Rb1 Qxb1+ ( 16...Qxc3 17.Rxb7
+Qd3+ 18.Kg1 $18 ) 17.Nxb1 Rxb1+ 18.Ke2 $18 ) ( 15...Na6 16.Nxa5 Qxb2 17.Re1
+$18 ) 16.Nxb8 ( 16.Re1 $2 O-O $132 ) ( 16.Bxb8 $2 Qxb2 17.Re1 Nb6 $17 )
+16...Rxb8 17.Bxb8 Qxb2 ( 17...Qxb8 18.Re1 $18 ) 18.Rb1 Qxc3 19.Ke2 $1 $18 Qd4
+( 19...O-O 20.Rhc1 Nb6 21.Qc6 $18 ( 21.Qb5 $2 Nxd5 ) ) 20.Qxd4 Bxd4 21.d6 $1
+f5 22.Rb7 Rf8 ( 22...Kd8 23.Rhb1 Re8 24.Bc7+ Kc8 25.Bxa5 $18 ) 23.Re1 Rf6 ( 
+23...Rf7 24.Kd3 ( 24.f4 $5 Nxb8 25.Rxb8+ Kd7 26.dxe7 Rxe7+ 27.Kd1 $18 )
+24...Bxf2 25.Rxe7+ Rxe7 26.dxe7 Kxe7 27.Kc4 Ke6 28.a4 $18 ) 24.Kd3 e5 25.Reb1
+$1 e4+ ( 25...Bxf2 26.Kc4 ) 26.Kc4 Bxf2 27.Kd5 e3 28.Rxd7 $1 Kxd7 29.Rb7+ Kd8
+( 29...Ke8 30.d7+ Ke7 ( 30...Kd8 31.Bc7+ ) 31.Bc7 Kxd7 32.Be5+ Kc8 33.Rb8+
+Kd7 34.Bxf6 e2 35.Bc3 e1=Q 36.Bxe1 Bxe1 37.Rb7+ Ke8 38.Rxh7 $18 ) ( 29...Kc8
+30.Kc6 $1 ( 30.d7+ ) 30...e2 31.Bc7 $18 ) 30.Bc7+ Ke8 ( 30...Kd7 31.Bxa5+ )
+31.Rb8+ Kf7 32.d7 1-0
 
 [Event "Moscow"]
 [Site "?"]
@@ -611,49 +328,48 @@ Rh5+ Kc4 57. Rh6 Qxg4 58. Rxa6 Kxb4 59. Rd6 Qf5 60. Rd4+ Kc3 61. Re4 Qd5 0-1
 [White "Milov, V."]
 [Black "Polgar, Ju"]
 [Result "1-0"]
-[ECO "E29"]
-[WhiteElo "2602"]
-[BlackElo "2686"]
 [Annotator "Milov"]
-[PlyCount "107"]
+[BlackElo "2686"]
+[ECO "E29"]
 [EventDate "2001.11.28"]
+[WhiteElo "2602"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Bxc3+ 6. bxc3 c5 7. Bd3 Nc6 8.
-Ne2 b6 9. e4 Ne8 10. O-O Ba6 11. f4 f5 12. d5 Na5 13. e5 Bxc4 14. Bxc4 Nxc4 15.
-d6 {><Ng7} 15... b5 $5 (15... Qc8 {-81/438}) 16. a4 a6 17. Qd3 g6 18. axb5 (18.
-Be3 Nb2 19. Qc2 Nxa4 20. c4 Qc8 (20... Ng7 21. Rfb1 Rb8 22. cxb5 axb5 23. Bxc5
-Qa5 24. Bd4 $13) 21. Rfc1 Qc6 $17) 18... axb5 19. Be3 Rxa1 20. Rxa1 Qb6 21. Nc1
-Ng7 22. Nb3 Rc8 (22... Nxe3 23. Qxe3 Rc8 24. h3 $1 {/\Kh2, Rc1, c3-c4+/-} (24.
-Rc1 {(><c5; /\25.c4 b426.Ra1 /\ 27.Ra5)} 24... Qa6 25. c4 b4 26. Qd3 Ra8 27.
-Nxc5 Qb6 28. Qd4 Ra2 29. Nb3 Qb7 30. Nd2 b3 31. Rb1 b2 32. Qc3 $14)) 23. Bf2 (
-23. Bxc5 Rxc5 24. Nxc5 Qxc5+ 25. Qd4 Qc8 $8 (25... Qc6 26. Qa7 (26. Ra7 Ne8)
-26... Ne8 27. Qb8 Kf8 28. Ra8 $18) 26. Qa7 Ne8 27. Qa8 (27. Kh1 Kf7) 27... Qc5+
-28. Kh1 Kf8 29. Qd8 Ncxd6 30. exd6 Qxd6 $11) (23. Qe2 Nh5) 23... Nb2 (23... Nh5
-24. Qf3 $36) 24. Qc2 Na4 25. c4 Qb8 (25... Rb8 26. Nc1 $1 (26. Nd2 Ra8) (26.
-cxb5 Qxb5 27. Nxc5 Nxc5 28. Qxc5 Qxc5 29. Bxc5 Kf8 $11) 26... Ra8 27. Nd3 Ra5
-28. Qa2 $1 bxc4 29. Nxc5 $18) (25... bxc4 26. Qxc4 Rb8 27. Qxa4 Qxb3 28. Qxd7
-$18) 26. Nd2 $16 (26. cxb5 Qxb5 (26... c4 27. Nd4 $16) 27. Nd4 Qb7 28. Qxa4
-cxd4 29. Qxd4 $14) 26... Nb6 27. cxb5 $2 (27. Rb1 $1 Nh5 28. g3 b4 29. Nb3 Qa8
-(29... Na4 30. Ra1 Nc3 31. Nxc5 $16) 30. Bxc5 $16) 27... c4 $132 28. Nf3 Nh5 (
-28... Nd5 $5 29. b6 (29. Rb1 Qb7 (29... Nxf4 30. Rb4)) 29... c3 $13) 29. g3 Qb7
-$2 (29... Nd5 30. Ra7 (30. Nd4 Qb7 $13) 30... Nb4 (30... Qxb5 31. Nd4) 31. Qc3
-Nd5 $13) 30. Ra3 Kg7 $6 (30... Nd5 31. Ra7 $1 (31. Nd4 c3) 31... Qb8 (31...
-Qxb5 32. Nd4) 32. Rxd7 Qxb5 33. Ra7 $16) 31. Nd4 $16 Kf7 (31... Nd5 $4 32. Ra7)
-32. Qa2 Qe4 33. Ra7 (33. Nf3 h6 $1 (33... Qb7 34. Ng5+ Ke8 35. Ra7 $18) 34.
-Bxb6 c3 $13) (33. Nxe6 $5 Kxe6 34. Bxb6 $16) 33... g5 34. Qe2 Qb1+ 35. Qf1 Qe4
-36. Qe2 Qb1+ 37. Kg2 Kg6 38. fxg5 (38. Qc2 Qb4 39. Nc6 dxc6 40. Bxb6 Qxb5 41.
-d7 Rf8 $13) (38. Nxe6 dxe6 39. Bxb6 Qxb5 40. d7 Rf8 41. d8=Q Rxd8 42. Bxd8 Qd5+
-43. Kf2 Qxd8 44. fxg5 $16) 38... c3 39. Qc2 Qb4 (39... Qb2 40. Rc7) 40. Rb7 $2
-(40. Rc7 Rxc7 41. dxc7 Qc4 (41... Nc8 42. Qb3) 42. Nxf5 $1 exf5 43. Bxb6 $18)
-40... Rc4 $1 $132 41. Nxe6 (41. Rxb6 $2 Rxd4 42. Bxd4 Qxd4 43. Ra6 Qd5+ 44. Kg1
-Qc5+ $11) (41. Qd3 Nd5 $13) 41... dxe6 42. Rxb6 Qb2 43. Qd3 Rf4 $2 (43... Nf4+
-44. gxf4 Rxf4 45. Qg3 Rg4 (45... c2 46. d7 c1=Q 47. d8=Q) 46. d7 $18) (43...
-Rg4 $1 44. Kf3 Nf4 $3 45. gxf4 Rxf4+ 46. Kxf4 Qxf2+ 47. Qf3 Qxb6 48. Qe3 Qxb5
-49. Qxc3 Qa4+ 50. Kf3 $16) 44. Qe3 c2 45. d7 c1=Q 46. d8=Q Rxf2+ 47. Qxf2 Qxe5
-(47... Qxf2+ 48. Kxf2 Qc2+ 49. Ke1 Qe4+ 50. Kd2 Qb4+ 51. Kd3 Qb1+ (51... Qb3+
-52. Ke2) (51... Qe4+ 52. Kc3) 52. Kc4 Qc2+ 53. Kb4 Qb2+ 54. Kc5 $18) 48. Qe8+
-Kxg5 49. Qxe6 (49. h4+) 49... Qxe6 50. Rxe6 f4 51. Re5+ Kg6 52. Rc5 f3+ 53.
-Kxf3 Qh1+ 54. Ke3 1-0
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 c5 7.Bd3 Nc6 8.Ne2 b6
+9.e4 Ne8 10.O-O Ba6 11.f4 f5 12.d5 Na5 13.e5 Bxc4 14.Bxc4 Nxc4 15.d6
+{ ><Ng7 } 15...b5 $5 ( 15...Qc8 { -81/438 } ) 16.a4 a6 17.Qd3 g6 18.axb5 ( 
+18.Be3 Nb2 19.Qc2 Nxa4 20.c4 Qc8 ( 20...Ng7 21.Rfb1 Rb8 22.cxb5 axb5 23.Bxc5
+Qa5 24.Bd4 $13 ) 21.Rfc1 Qc6 $17 ) 18...axb5 19.Be3 Rxa1 20.Rxa1 Qb6 21.Nc1
+Ng7 22.Nb3 Rc8 ( 22...Nxe3 23.Qxe3 Rc8 24.h3 $1 { /\Kh2, Rc1, c3-c4+/- } ( 
+24.Rc1 { (><c5; /\25.c4 b426.Ra1 /\ 27.Ra5) } 24...Qa6 25.c4 b4 26.Qd3 Ra8
+27.Nxc5 Qb6 28.Qd4 Ra2 29.Nb3 Qb7 30.Nd2 b3 31.Rb1 b2 32.Qc3 $14 ) ) 23.Bf2
+( 23.Bxc5 Rxc5 24.Nxc5 Qxc5+ 25.Qd4 Qc8 $8 ( 25...Qc6 26.Qa7 ( 26.Ra7 Ne8 )
+26...Ne8 27.Qb8 Kf8 28.Ra8 $18 ) 26.Qa7 Ne8 27.Qa8 ( 27.Kh1 Kf7 ) 27...Qc5+
+28.Kh1 Kf8 29.Qd8 Nxd6 30.exd6 Qxd6 $11 ) ( 23.Qe2 Nh5 ) 23...Nb2 ( 23...Nh5
+24.Qf3 $36 ) 24.Qc2 Na4 25.c4 Qb8 ( 25...Rb8 26.Nc1 $1 ( 26.Nd2 Ra8 ) ( 
+26.cxb5 Qxb5 27.Nxc5 Nxc5 28.Qxc5 Qxc5 29.Bxc5 Kf8 $11 ) 26...Ra8 27.Nd3 Ra5
+28.Qa2 $1 bxc4 29.Nxc5 $18 ) ( 25...bxc4 26.Qxc4 Rb8 27.Qxa4 Qxb3 28.Qxd7 $18
+) 26.Nd2 $16 ( 26.cxb5 Qxb5 ( 26...c4 27.Nd4 $16 ) 27.Nd4 Qb7 28.Qxa4 cxd4
+29.Qxd4 $14 ) 26...Nb6 27.cxb5 $2 ( 27.Rb1 $1 Nh5 28.g3 b4 29.Nb3 Qa8 ( 
+29...Na4 30.Ra1 Nc3 31.Nxc5 $16 ) 30.Bxc5 $16 ) 27...c4 $132 28.Nf3 Nh5 ( 
+28...Nd5 $5 29.b6 ( 29.Rb1 Qb7 ( 29...Nxf4 30.Rb4 ) ) 29...c3 $13 ) 29.g3 Qb7
+$2 ( 29...Nd5 30.Ra7 ( 30.Nd4 Qb7 $13 ) 30...Nb4 ( 30...Qxb5 31.Nd4 ) 31.Qc3
+Nd5 $13 ) 30.Ra3 Kg7 $6 ( 30...Nd5 31.Ra7 $1 ( 31.Nd4 c3 ) 31...Qb8 ( 
+31...Qxb5 32.Nd4 ) 32.Rxd7 Qxb5 33.Ra7 $16 ) 31.Nd4 $16 Kf7 ( 31...Nd5 $4
+32.Ra7 ) 32.Qa2 Qe4 33.Ra7 ( 33.Nf3 h6 $1 ( 33...Qb7 34.Ng5+ Ke8 35.Ra7 $18 )
+34.Bxb6 c3 $13 ) ( 33.Nxe6 $5 Kxe6 34.Bxb6 $16 ) 33...g5 34.Qe2 Qb1+ 35.Qf1
+Qe4 36.Qe2 Qb1+ 37.Kg2 Kg6 38.fxg5 ( 38.Qc2 Qb4 39.Nc6 dxc6 40.Bxb6 Qxb5
+41.d7 Rf8 $13 ) ( 38.Nxe6 dxe6 39.Bxb6 Qxb5 40.d7 Rf8 41.d8=Q Rxd8 42.Bxd8
+Qd5+ 43.Kf2 Qxd8 44.fxg5 $16 ) 38...c3 39.Qc2 Qb4 ( 39...Qb2 40.Rc7 ) 40.Rb7
+$2 ( 40.Rc7 Rxc7 41.dxc7 Qc4 ( 41...Nc8 42.Qb3 ) 42.Nxf5 $1 exf5 43.Bxb6 $18
+) 40...Rc4 $1 $132 41.Nxe6 ( 41.Rxb6 $2 Rxd4 42.Bxd4 Qxd4 43.Ra6 Qd5+ 44.Kg1
+Qc5+ $11 ) ( 41.Qd3 Nd5 $13 ) 41...dxe6 42.Rxb6 Qb2 43.Qd3 Rf4 $2 ( 
+43...Nf4+ 44.gxf4 Rxf4 45.Qg3 Rg4 ( 45...c2 46.d7 c1=Q 47.d8=Q ) 46.d7 $18 )
+( 43...Rg4 $1 44.Kf3 Nf4 $3 45.gxf4 Rxf4+ 46.Kxf4 Qxf2+ 47.Qf3 Qxb6 48.Qe3
+Qxb5 49.Qxc3 Qa4+ 50.Kf3 $16 ) 44.Qe3 c2 45.d7 c1=Q 46.d8=Q Rxf2+ 47.Qxf2
+Qxe5 ( 47...Qxf2+ 48.Kxf2 Qc2+ 49.Ke1 Qe4+ 50.Kd2 Qb4+ 51.Kd3 Qb1+ ( 
+51...Qb3+ 52.Ke2 ) ( 51...Qe4+ 52.Kc3 ) 52.Kc4 Qc2+ 53.Kb4 Qb2+ 54.Kc5 $18 )
+48.Qe8+ Kxg5 49.Qxe6 ( 49.h4+ ) 49...Qxe6 50.Rxe6 f4 51.Re5+ Kg6 52.Rc5 f3+
+53.Kxf3 Qh1+ 54.Ke3 1-0
 
 [Event "Eurotel Trophy"]
 [Site "Prague CZE"]
@@ -662,43 +378,344 @@ Kxf3 Qh1+ 54. Ke3 1-0
 [White "Milov, V."]
 [Black "Topalov, V."]
 [Result "1-0"]
-[ECO "D27"]
-[WhiteElo "2606"]
-[BlackElo "2745"]
 [Annotator "Milov,V"]
-[PlyCount "97"]
+[BlackElo "2745"]
+[ECO "D27"]
 [EventDate "2002.04.28"]
+[WhiteElo "2606"]
 
-1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. O-O a6 7. a4 Nc6 8. Qe2
-Be7 9. Rd1 O-O 10. Nc3 Qc7 11. d5 (11. h3) 11... exd5 12. Nxd5 Nxd5 13. Bxd5
-Bf6 (13... Bg4 14. h3 Bh5 15. Bd2 Bf6 16. Bc3 $14) (13... Nb4 $5) 14. h3 (14.
-e4 $6 Bg4 $11) 14... Nb4 15. e4 Nxd5 16. exd5 Qd6 $146 (16... Bf5 $1 17. Be3 (
-17. Qc4 $2 b5) 17... c4 18. d6 (18. Rac1 b5 19. b3 $6 c3) 18... Qd7 (18... Qc6
-19. Nd4 Bxd4 20. Rxd4 Bd3 21. Qd2 b5 $11) 19. Qxc4 Bxb2 20. Ra2 Be6 21. Qc2 Bf6
-(21... Bxa2 $6 22. Qxb2 Be6 23. a5 $44) 22. Ra3 Rac8 23. Qd2 Bf5 $11) 17. a5
-Bd7 (17... Bf5 18. Be3 (18. Qc4 Rfe8 19. Bf4 Qd7 20. Qxc5 Bxb2 21. Ra2 Rac8 22.
-Qb6 Bf6 23. d6 Be4 $13) 18... Rac8 (18... Rfe8 19. Rac1 Rac8 20. Bxc5 $3 (20.
-Nd2 $5 Bd4 (20... Qxd5 $2 21. Nc4 Bd4 22. Nb6 $16) 21. Qf3 (21. Nc4 Qg6) 21...
-Qg6 22. Bxd4 cxd4 $11) 20... Rxe2 21. Bxd6 Rxc1 22. Rxc1 Rxb2 23. Be5 Bxe5 24.
-Nxe5 f6 25. Nc4 $14) 19. Rac1 Rfd8 20. Rc4 $1 $14 {/\21.Bf4}) 18. Be3 b5 {'?!'}
-(18... Rfe8 19. Qd2 $14 {/\20.Bf4} (19. Qc2 Rac8 20. Rac1 c4 $13)) 19. axb6
-Qxb6 20. Rd2 Bb5 21. Qd1 Qd6 22. Qc2 Rac8 (22... c4 23. Bg5 $36 (23. Bd4)) 23.
-Rc1 {'!'} 23... c4 {'><Bb5'} 24. Bd4 Rcd8 (24... Rfe8 25. Bxf6 Qxf6 26. Nh2 $1
-$36 {/\Nh2-g4-e3}) 25. Rcd1 {'+/-'} 25... Rfe8 26. Qc3 {'?!'} (26. Bxf6 $5 Qxf6
-27. Nh2 Qd6 28. Ng4 $16 {/\29.Ne3}) 26... Ba4 (26... Bxd4 27. Rxd4 $36 {><Bb5}
-(27. Nxd4 Qe5)) 27. Ra1 Bb5 28. Bxf6 {'?'} (28. Qc2 $142 Rd7 29. Rad1 $36 {
-/\30.Bf6 Qf6 31.Nh2}) 28... Qxf6 29. Qxf6 gxf6 30. g4 (30. Nh4 Re5 31. d6 Kf8
-32. g4 {-30.g4 Kf8}) 30... Kf8 (30... f5 $5 31. Kg2 (31. gxf5 Kg7) 31... fxg4
-32. hxg4 Rd6 33. Nh4 Bd7 $1 (33... Red8 $2 34. Nf5) 34. Kg3 Be6 35. Ng2 (35.
-Ra5 Red8) 35... Rxd5 $11) 31. Nh4 Re5 32. d6 h5 33. Nf5 (33. Kg2 hxg4 34. hxg4
-Ke8 $11 (34... Bd7 35. Kg3 $16)) 33... hxg4 34. hxg4 Bd7 {'?'} (34... Ke8 35.
-Kg2 Kd7 $11) 35. Rxa6 {'+/-!'} (35. Ne3 Bb5) 35... Bxf5 36. gxf5 Rxf5 (36...
-Rc5 $142 {/\37...c3} 37. Kg2 c3 38. bxc3 Rxc3 39. Rd5 $16) 37. Rc6 {'+-'} 37...
-Rf4 38. Kg2 Re4 39. Kf3 Re6 (39... f5 40. Rc5 Re6 41. Rxc4 Rexd6 42. Rxd6 Rxd6
-43. Ke3 Ke7 44. Rd4 $18) 40. Rxc4 Rexd6 41. Rxd6 Rxd6 42. Ke3 Rd1 (42... Ke7
-43. Rd4) 43. b4 f5 (43... Ke7 44. Re4+ Kf8 45. Rd4) (43... Rb1 44. Kd4) 44. Rd4
-Rb1 (44... Rc1 45. Kd3 (45. Kf4) 45... Ke7 46. b5 Ke6 47. Rb4 $18) 45. Kd3 Kg7
-46. Kc4 Kg6 47. f4 Kh5 48. b5 Kg4 49. Kc5 1-0
+1.d4 d5 2.c4 dxc4 3.e3 Nf6 4.Bxc4 e6 5.Nf3 c5 6.O-O a6 7.a4 Nc6 8.Qe2 Be7
+9.Rd1 O-O 10.Nc3 Qc7 11.d5 ( 11.h3 ) 11...exd5 12.Nxd5 Nxd5 13.Bxd5 Bf6 ( 
+13...Bg4 14.h3 Bh5 15.Bd2 Bf6 16.Bc3 $14 ) ( 13...Nb4 $5 ) 14.h3 ( 14.e4 $6
+Bg4 $11 ) 14...Nb4 15.e4 Nxd5 16.exd5 Qd6 $146 ( 16...Bf5 $1 17.Be3 ( 17.Qc4
+$2 b5 ) 17...c4 18.d6 ( 18.Rac1 b5 19.b3 $6 c3 ) 18...Qd7 ( 18...Qc6 19.Nd4
+Bxd4 20.Rxd4 Bd3 21.Qd2 b5 $11 ) 19.Qxc4 Bxb2 20.Ra2 Be6 21.Qc2 Bf6 ( 
+21...Bxa2 $6 22.Qxb2 Be6 23.a5 $44 ) 22.Ra3 Rac8 23.Qd2 Bf5 $11 ) 17.a5 Bd7
+( 17...Bf5 18.Be3 ( 18.Qc4 Rfe8 19.Bf4 Qd7 20.Qxc5 Bxb2 21.Ra2 Rac8 22.Qb6
+Bf6 23.d6 Be4 $13 ) 18...Rac8 ( 18...Rfe8 19.Rac1 Rac8 20.Bxc5 $3 ( 20.Nd2 $5
+Bd4 ( 20...Qxd5 $2 21.Nc4 Bd4 22.Nb6 $16 ) 21.Qf3 ( 21.Nc4 Qg6 ) 21...Qg6
+22.Bxd4 cxd4 $11 ) 20...Rxe2 21.Bxd6 Rxc1 22.Rxc1 Rxb2 23.Be5 Bxe5 24.Nxe5 f6
+25.Nc4 $14 ) 19.Rac1 Rfd8 20.Rc4 $1 $14 { /\21.Bf4 } ) 18.Be3 b5 { '?!' } ( 
+18...Rfe8 19.Qd2 $14 { /\20.Bf4 } ( 19.Qc2 Rac8 20.Rac1 c4 $13 ) ) 19.axb6
+Qxb6 20.Rd2 Bb5 21.Qd1 Qd6 22.Qc2 Rac8 ( 22...c4 23.Bg5 $36 ( 23.Bd4 ) )
+23.Rc1 { '!' } 23...c4 { '><Bb5' } 24.Bd4 Rcd8 ( 24...Rfe8 25.Bxf6 Qxf6
+26.Nh2 $1 $36 { /\Nh2-g4-e3 } ) 25.Rcd1 { '+/-' } 25...Rfe8 26.Qc3 { '?!' }
+( 26.Bxf6 $5 Qxf6 27.Nh2 Qd6 28.Ng4 $16 { /\29.Ne3 } ) 26...Ba4 ( 26...Bxd4
+27.Rxd4 $36 { ><Bb5 } ( 27.Nxd4 Qe5 ) ) 27.Ra1 Bb5 28.Bxf6 { '?' } ( 28.Qc2
+$142 Rd7 29.Rad1 $36 { /\30.Bf6 Qf6 31.Nh2 } ) 28...Qxf6 29.Qxf6 gxf6 30.g4
+( 30.Nh4 Re5 31.d6 Kf8 32.g4 { -30.g4 Kf8 } ) 30...Kf8 ( 30...f5 $5 31.Kg2 ( 
+31.gxf5 Kg7 ) 31...fxg4 32.hxg4 Rd6 33.Nh4 Bd7 $1 ( 33...Red8 $2 34.Nf5 )
+34.Kg3 Be6 35.Ng2 ( 35.Ra5 Red8 ) 35...Rxd5 $11 ) 31.Nh4 Re5 32.d6 h5 33.Nf5
+( 33.Kg2 hxg4 34.hxg4 Ke8 $11 ( 34...Bd7 35.Kg3 $16 ) ) 33...hxg4 34.hxg4 Bd7
+{ '?' } ( 34...Ke8 35.Kg2 Kd7 $11 ) 35.Rxa6 { '+/-!' } ( 35.Ne3 Bb5 )
+35...Bxf5 36.gxf5 Rxf5 ( 36...Rc5 $142 { /\37...c3 } 37.Kg2 c3 38.bxc3 Rxc3
+39.Rd5 $16 ) 37.Rc6 { '+-' } 37...Rf4 38.Kg2 Re4 39.Kf3 Re6 ( 39...f5 40.Rc5
+Re6 41.Rxc4 Rexd6 42.Rxd6 Rxd6 43.Ke3 Ke7 44.Rd4 $18 ) 40.Rxc4 Rexd6 41.Rxd6
+Rxd6 42.Ke3 Rd1 ( 42...Ke7 43.Rd4 ) 43.b4 f5 ( 43...Ke7 44.Re4+ Kf8 45.Rd4 )
+( 43...Rb1 44.Kd4 ) 44.Rd4 Rb1 ( 44...Rc1 45.Kd3 ( 45.Kf4 ) 45...Ke7 46.b5
+Ke6 47.Rb4 $18 ) 45.Kd3 Kg7 46.Kc4 Kg6 47.f4 Kh5 48.b5 Kg4 49.Kc5 1-0
+
+[Event "XVI Carlos Torre Mem"]
+[Site "Merida MEX"]
+[Date "2003.12.15"]
+[Round "4"]
+[White "Milov, V."]
+[Black "Luther, T."]
+[Result "1-0"]
+[Annotator "Milov,V"]
+[BlackElo "2580"]
+[ECO "D11"]
+[EventDate "2003.12.12"]
+[WhiteElo "2574"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 a6
+{ Not a long time ago people were laughing at such moves but now it became very popular and it seems that hardly anyone knows how to get an advantage in the lines 4.Nc3 a6, 3.Nc3 Nf6 4.e3 a6 or the one that happened in our game. }
+5.Bd3 Bg4 6.Qb3 ( { and after } 6.Nbd2 e6 7.O-O Nbd7
+{ there is no clear path for White to get an advantage, e.g. } 8.b3 Bd6 9.h3
+Bf5 10.Qc2 Bxd3 11.Qxd3 O-O 12.Bb2 Qe7
+{ was about equal in Gurevich,M-Fressinet,L/Belfort 2003 } ) 6...Bxf3 7.gxf3
+Ra7
+{ This move doesn`t look very attractive and indeed more often Black prefers more natural 7...Qc7. Justification of 7...Ra7, which is in my opinion not bad at all, is that rook can come into play along the 7th rank after b7-b5 or, as the position remains closed it wouldn`t be a big problem for Black to lose time playing Ra7-a8 some day. I think in this moment none of us could imagine that this rook would stay on a7 for the rest of the game! }
+( { The above mentioned } 7...Qc7
+{ occurred in several games. In Van Wely-Bareev, Amber, 2003, after } 8.Nc3
+e6 9.Bd2 Be7 10.Rc1 ( 10.c5 $5 ) 10...dxc4 11.Bxc4 Nbd7 12.Be2 O-O
+{ Black achieved a satisfactory position } ) 8.Nc3 e6 9.c5 ( 9.Bd2
+{ would allow } 9...dxc4 10.Bxc4 b5 { followed by 11...c5 } ) 9...Nbd7 10.Bd2
+( { if White would try to close the center by } 10.f4 { then } 10...b6
+11.cxb6 Nxb6 12.Na4 Nxa4 13.Qxa4 Qd7 { and Black is ready to play c6-c5 } )
+10...e5 ( { now } 10...b6 { is more problematic for Black: } 11.cxb6 Nxb6 ( 
+11...Qxb6 $142 12.Qxb6 Nxb6 13.Ne2 $14 ) 12.Na4 Nxa4 13.Qxa4 Qd7 14.b4 $16 )
+11.Qc2
+{ So what is the White`s plan here? I want to castle long and thanks to the open "g"-file try to create some threats against the black king. }
+11...g6 12.f4 $6
+{ I didn`t see the difference between this move and 12.0-0-0, that I was going to play next. }
+( { Still, } 12.O-O-O
+{ would be preferrable as White is not obliged to play f3-f4 in some variations: }
+12...b6 ( 12...Bh6 $6
+{ (hoping after 13.f4 to transpose to the position we had in the game) }
+13.dxe5 Nxe5 14.Be2 O-O 15.Na4 Bg7 16.Bc3 Qe7 17.h4 $16
+{ and the difference between this position and the one that happened in the game is obvious here }
+) ( 12...Bg7 13.f4 ) 13.cxb6 Qxb6 14.Kb1 { and White is slightly better } )
+12...exd4 13.exd4 Bh6 $1
+{ This is the reason why I should have preferred to castle on move 12. After the dark-squared bishops are exchanged White will lack an important piece in the attack. }
+( { I was only counting on } 13...Bg7 14.O-O-O O-O 15.f5 b6 16.cxb6 Qxb6
+17.Na4 Qc7 18.Kb1 Nh5 19.Be3 { with some advantage for White } ) 14.O-O-O O-O
+15.f5 Bxd2+ 16.Qxd2 Nh5
+{ Due to control over the dark squares Black has a satisfactory position. }
+( 16...b6 { was the other option although it involved more risk: } 17.cxb6
+Qxb6 18.Qh6 Rb8 19.Rd2 c5 20.Rg1 Nf8 { with the unclear position } ( 
+20...cxd4 21.fxg6 fxg6 22.Bxg6 hxg6 23.Rxg6+ Kf7 24.Rg7+ Ke6 25.Re2+ Ne5 ( 
+25...Kd6 26.Qf4+ Kc5 27.Na4+ ) 26.f4 { winning } ) ) 17.Rhg1 ( { or } 17.h4
+Qf6 18.Ne2 Raa8 19.Rdg1 Kh8
+{ and it`s also doubtful whether White can reach anything on the Kingside } )
+17...Qh4 $6 { It seems that Thomas overestimates his position. } ( 17...Qf6
+{ defending the g6-pawn was better: } 18.Rg4 Ng7 19.Rdg1 Nxf5 20.Rf4 Kh8
+21.Bxf5 gxf5 22.Qd3 Rg8 23.Rxg8+ Kxg8 24.Rxf5 Qh6+ 25.Kc2 Ra8 $1
+{ Finally bringing the rook into play Black manages to hold the balance. } )
+18.Kb1
+{ aimed against 18...Qd4 which is now refuted by 19.fg fg 20.Bg6 and White wins. }
+18...Ndf6 $2
+{ Black is bringing the knight to the defence and black position seems indeed very solid but now surprisingly Black gets under smashing attack. }
+( { or } 18...Nf4 19.Bc2 Nf6 ( 19...Raa8 20.f3 Nf6 21.Rg4 $18 ) 20.f3 g5
+21.Qe1 $16 ) ( 18...Qf6 { was still the best defence. } ) 19.fxg6 fxg6
+20.Bxg6 $1
+{ there is no sense to sit and wait until Black plays Ra7-a8 and consolidates all his pieces. }
+20...hxg6 21.Qh6
+{ Black has many pieces around his king but some of them are so ackwardly placed, especially the pinned knight on h5 and the queen on h4 that the black king is forced to leave his safe heaven and tries to save himself in the middle of the board. }
+21...Kf7 ( 21...Nh7 22.Rxg6+ Kh8 23.Rg7 $18 ) ( 21...Qf4 22.Rxg6+ ( 22.Qxg6+
+$2 Kh8 23.Rg5 Qc7 ) 22...Kf7 23.Rg7+ Ke8 24.Re1+ Kd8 25.Rg5 Rf7 ( 25...Re8
+26.Ree5 $3 { preparing 27.Rh5 Nh5 28.Qd6 } 26...Qxh2 27.Rxh5 Qg1+ 28.Kc2
+Qxf2+ 29.Kb3 Rxe5 30.Rxe5 Nd7 31.Rg5 $18 ) 26.Qh8+ Kc7 27.Rge5
+{ and Black is helpless against the numerous threats, for example: } 27...Ng7
+( 27...Qxh2 28.Na4 ) 28.Re7+ Nd7 29.Qg8 Rxe7 30.Rxe7 Qxd4 31.Qxg7 Qxg7
+32.Rxg7 $18 ) 22.Qxg6+ ( 22.Rxg6 { would have been a mistake in a view of }
+22...Qxf2 ) 22...Ke7 23.Rde1+ Kd8 ( 23...Kd7 { is not better: } 24.Qf5+ Kd8
+25.Qe6 Ne8 ( 25...Nd7 26.Rg8 Qxf2 ( 26...Ra8 27.Nxd5 $1 cxd5 28.Rxf8+ Nxf8
+29.Qb6+ Kc8 30.c6 $18 ) 27.Qe8+ $1 Kc7 28.Rxf8 Qxf8 29.Qxh5 $18 ) 26.Qe5 Ra8
+27.Nxd5 $3 cxd5 28.Qxd5+ Kc8 ( 28...Kc7 29.Rg5 { /\30.Re7 } ) 29.c6 Kb8 ( 
+29...bxc6 30.Rxe8+ $1 Rxe8 ( 30...Kc7 31.Qe5+ Kb7 32.Re7+ ) ( 30...Kb7
+31.Qd7+ Kb6 32.Re3 ) 31.Qxc6+ Kb8 32.Qb6+ Kc8 33.Rc1+ Kd7 34.Rc7+ Kd8 35.Qd6#
+) 30.cxb7 Ra7 31.Qc5 Rxb7 32.Qxf8 Rxb2+ 33.Ka1 $1 Nf6 34.Rxe8+ Nxe8 35.Qxe8+
+{ winning } ) 24.Qh6
+{ White has to hurry before Black manages to bring his a7-rook into play. }
+24...Rf7 $2 { This so obvious move loses by force. } ( 24...Re8
+{ is not sufficient: } 25.Rxe8+ Nxe8 26.Rg8 $18 ) ( 24...Nd7
+{ was the toughest defence after which it`s very difficult for White to keep the initiative. The computer now likes }
+25.Qh7 $1
+{ creating threats along the 7th rank and it looks like Black has to give up his knight on h5. }
+( { worse } 25.Na4 Qxd4 26.Nb6 Nhf6
+{ and White has no compensation for a piece } ) ( 25.Rg3 Ra8 26.Rge3 Qg4
+27.Na4 Nhf6 28.Nb6 Rf7 { is unclear as well } ) 25...Qxf2
+{ probably the best defence } ( 25...Kc7 { loses to } 26.Rg7 Rd8 27.Ree7 Qh3
+28.Kc2 $1 { preventing Qf1+ } 28...b5 ( 28...b6 29.Na4 ) 29.Rgf7 Kc8 30.Ne2
+Qg4 31.h3 Qxh3 32.Rf5 Nf8 ( 32...Qg2 33.Qxh5 Nf6 34.Qf7 ) 33.Rxf8 Rxf8
+34.Rxa7 Qf5+ 35.Kd2 $18 ) ( 25...Ra8 26.Na4 Kc7 27.Nb6 Rad8 28.Rg7 Qh3
+29.Rxd7+ Rxd7 30.Nxd7 Qf5+ 31.Qxf5 Rxf5 32.Re7 Kd8 33.Rh7 Rxf2 34.Ne5 $18 )
+( 25...Qh3 26.Rg5 Nf4 27.Qe7+ Kc7 28.Qd6+ Kc8 29.Na4 $18 ) ( 25...Qxd4
+26.Qxh5 Qxf2 ( 26...Nxc5 27.Rd1 Qh8 ( 27...Qf6 28.Nxd5 ) ( 27...Qf4 28.Nxd5
+Qe4+ 29.Ka1 cxd5 30.Rge1 Qc4 31.Rxd5+ Nd7 32.Qg5+ $18 ) 28.Qg5+ Kc8 ( 
+28...Qf6 29.Nxd5 ) 29.Qe7 Nd7 30.Rg7 Qh3 31.Na4 Qf5+ 32.Ka1 Rd8 33.Nb6+ $18 )
+27.Na4 Kc7 28.Qg5 Qf4 ( 28...Qxh2 29.Qe7 ) 29.Qxf4+ Rxf4 30.Rg7 Rxa4 ( 
+30...Kd8 31.Nb6 Nxc5 32.Ree7 $18 ) 31.Ree7 Rh4 32.Rxd7+ Kc8 33.Rdf7 Rh8 34.h4
+$18 ) 26.Qxh5 Qxd4
+{ here White has a choice of 2 approximately equal options: } 27.Qg6 ( 
+27.Qg5+ Kc8 28.h4 ( 28.Re7 Qxc5 29.Rc1 d4 30.Nd5 Qd6 31.Rg7 a5 32.h4 Ra6
+33.h5 Kb8 ) 28...Qxc5 ( 28...Nxc5 29.h5 ) 29.h5 d4 ( 29...b5 30.Ne2 Qf2 ( 
+30...Qd6 31.Nd4 ) 31.h6 Qf6 32.Qg7 Qxg7 33.Rxg7 Rb7 34.Nd4 c5 35.Nc6 $18 )
+30.Ne4 Qxg5 31.Rxg5 b5 ( 31...Kc7 32.Rg7 ) 32.Rd1 Nb6 33.Rxd4 Nd5 34.Rg6 Rc7
+35.Nc5 a5 36.Rd1 { with a big advantage } ) 27...Qxc5 ( 27...Qf6 28.Qxf6+
+Rxf6 29.Rg8+ Rf8 30.Rxf8+ Nxf8 31.Na4 Ra8 32.Nb6 Rb8 33.h4 Nd7 34.Rg1 Nxc5
+35.Rg8+ Kc7 36.Na8+ $18 ) ( 27...Nxc5 28.Qd6+ Nd7 29.Qe7+ Kc8 30.Rg7 Rd8
+31.h4 b5 32.h5 Rc7 ( 32...b4 33.Na4 Rh8 34.h6 ) 33.h6 Rh8 34.h7 Kb7 35.Ka1 a5
+36.Rf7 a4 37.Qd6 $16 ) 28.Qe6 Qd4 { and now or } 29.Rg6 ( 29.Rg8 Rxg8
+30.Qxg8+ Kc7 31.Qg3+ Kd8 32.Ne2 ( 32.h4 Qf6 ) 32...Qf6 33.Nf4 b5 34.Ka1 $1
+{ this modest move means the beginning of the decisive attack! } ( 34.Ne6+
+Kc8 35.Qd6 Nb8 ) 34...Kc8 ( 34...a5 35.a3 b4 36.Re6 Qd4 37.Rxc6 $18 ) 35.Re6
+Qd8 36.Rxc6+ Rc7 37.Rxc7+ Qxc7 38.Qg8+ Kb7 39.Qxd5+ ) 29...Qd3+ ( 29...Ra8
+30.Qe7+ Kc8 ( 30...Kc7 31.Rd6 Rad8 32.Rxd7+ ) 31.Rd6 Rd8 32.Nxd5 ) ( 
+29...Kc7 30.Qd6+ Kc8 31.h4 Qc5 ( 31...Rd8 32.Qg3 ) ( 31...Qxh4 32.Rge6 Rd8
+33.Nxd5 cxd5 34.Rc1+ ) 32.Qg3 b5 33.h5 ( 33.Ne2 $5 ) 33...Rc7 ( 33...Nf6
+34.Re6 Raf7 35.Qe5 ) 34.h6 Kb7 ( 34...Nf6 35.Rxf6 Rxf6 36.h7 Rxh7 37.Qg8+ )
+35.h7 Rh8 36.Rg7 b4 37.Na4 Qd4 38.Ka1 c5 39.Rf7 ) 30.Ka1 Kc8 31.Rg8 Rxg8
+32.Qxg8+ Kc7 33.Rc1 d4 ( 33...Nc5 34.b4 Nd7 35.Nxd5+ Kd6 36.Qg1 ( 36.Nc3 Kc7
+37.h4 $16 ) 36...cxd5 ( 36...Ra8 37.Nb6 ) 37.Qxa7 Qd2 38.Qg1 $16 ) 34.Nd5+
+Kd6 35.Nf4 Qf5 36.Rf1 c5 37.h4 b6 ( 37...d3 38.Rf3 ) 38.h5 Kc6 39.Qg2+ Kb5
+40.b3 a5 41.Qe2+ Kc6 42.Nd3 Qd5 43.h6 a4 44.b4 c4 45.b5+ Kb7 ( 45...Qxb5
+46.h7 ) 46.Nb4 d3 47.Nxd5 dxe2 48.Re1 Ra8 49.Rxe2 Rh8 50.Re7 Kc8 51.h7 $18
+{ and White wins. Probably the above seen lines don`t show all defensive possibilities but from them we can see how dangerous White`s initiative is. }
+) 25.Rg8+ $1
+{ appearance of this rook on the 8th rank means even more trouble to the black king, moreover it means that the rook on a7 probably will never come into play... }
+25...Kc7 ( 25...Nxg8 26.Qd6+ { with mate } ) 26.Rf8
+{ putting the rook in a more "comfortable" place and keeping to chase the black rook. }
+( 
+{ when analysing the game I discovered another nice possibility for White: }
+26.Qh8 $5 Qh3 ( 26...Nxg8 27.Qe5+ Kc8 28.Na4 b5 29.Qe6+ Rfd7 30.Nb6+ Kb8
+31.Nxd7+ ) 27.Rb8 Qd7 28.Na4 { winning } ) 26...Rh7
+{ allowing the beautiful final, but there was no defence anyway. } ( 
+26...Rd7 27.Qh8 $18 ) ( 26...Rg7 27.Na4 Qxd4 28.Qh8 Qd3+ 29.Ka1 Qe4 30.Rc8+
+Kd7 31.Nb6+ ) 27.Na4 $3
+{ Comes completely unexpectedly. The knight suddenly is joining the mating attack. }
+( { There was another winning option: } 27.Qg6 Rd7 28.Ree8 Nxe8 29.Qxe8 Rd8
+30.Qe5+ Kc8 31.Rf7 Rd7 32.Qf5 Qd8 33.Na4 $18
+{ but I like 27.Na4!! a lot more. } ) 27...Rxh6 ( 27...Qh3 28.Nb6 Rxh6
+29.Re7+ { followed by 30.Rc8 mate. } ) ( 27...Qxf2 28.Qxh7+ Nxh7 29.Re7# )
+28.Nb6 ( { Here it was not too late for White to make a mistake: } 28.Re7+ $2
+Nd7 29.Nb6 { and it seems that there is no defence against 30.Rc8 but... }
+29...Qe4+ $3 { still, White could make a draw after } 30.Kc1 Qe1+ 31.Kc2 Qe2+
+32.Kc1 Qc4+ 33.Kb1 Qf1+ { with a perpetual } ) 28...Qe4+ ( 28...Qh3 29.Re7+
+{ except the g and some pawns White used all his pieces to deliver mate to the Black king. }
+) 29.Rxe4 1-0
+
+[Event "XVI Carlos Torre Mem"]
+[Site "Merida MEX"]
+[Date "2003.12.15"]
+[Round "4"]
+[White "Milov, V."]
+[Black "Luther, T."]
+[Result "1-0"]
+[Annotator "Milov,V"]
+[BlackElo "2580"]
+[ECO "D11"]
+[EventDate "2003.12.12"]
+[WhiteElo "2574"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 a6
+{ Not a long time ago people were laughing at such moves but now it became very popular and it seems that hardly anyone knows how to get an advantage in the lines 4.Nc3 a6, 3.Nc3 Nf6 4.e3 a6 or the one that happened in our game. }
+5.Bd3 Bg4 6.Qb3 ( { and after } 6.Nbd2 e6 7.O-O Nbd7
+{ there is no clear path for White to get an advantage, e.g. } 8.b3 Bd6 9.h3
+Bf5 10.Qc2 Bxd3 11.Qxd3 O-O 12.Bb2 Qe7
+{ was about equal in Gurevich,M-Fressinet,L/Belfort 2003 } ) 6...Bxf3 7.gxf3
+Ra7
+{ This move doesn`t look very attractive and indeed more often Black prefers more natural 7...Qc7. Justification of 7...Ra7, which is in my opinion not bad at all, is that rook can come into play along the 7th rank after b7-b5 or, as the position remains closed it wouldn`t be a big problem for Black to lose time playing Ra7-a8 some day. I think in this moment none of us could imagine that this rook would stay on a7 for the rest of the game! }
+( { The above mentioned } 7...Qc7
+{ occurred in several games. In Van Wely-Bareev, Amber, 2003, after } 8.Nc3
+e6 9.Bd2 Be7 10.Rc1 ( 10.c5 $5 ) 10...dxc4 11.Bxc4 Nbd7 12.Be2 O-O
+{ Black achieved a satisfactory position } ) 8.Nc3 e6 9.c5 ( 9.Bd2
+{ would allow } 9...dxc4 10.Bxc4 b5 { followed by 11...c5 } ) 9...Nbd7 10.Bd2
+( { if White would try to close the center by } 10.f4 { then } 10...b6
+11.cxb6 Nxb6 12.Na4 Nxa4 13.Qxa4 Qd7 { and Black is ready to play c6-c5 } )
+10...e5 ( { now } 10...b6 { is more problematic for Black: } 11.cxb6 Nxb6 ( 
+11...Qxb6 $142 12.Qxb6 Nxb6 13.Ne2 $14 ) 12.Na4 Nxa4 13.Qxa4 Qd7 14.b4 $16 )
+11.Qc2
+{ So what is the White`s plan here? I want to castle long and thanks to the open "g"-file try to create some threats against the black king. }
+11...g6 12.f4 $6
+{ I didn`t see the difference between this move and 12.0-0-0, that I was going to play next. }
+( { Still, } 12.O-O-O
+{ would be preferrable as White is not obliged to play f3-f4 in some variations: }
+12...b6 ( 12...Bh6 $6
+{ (hoping after 13.f4 to transpose to the position we had in the game) }
+13.dxe5 Nxe5 14.Be2 O-O 15.Na4 Bg7 16.Bc3 Qe7 17.h4 $16
+{ and the difference between this position and the one that happened in the game is obvious here }
+) ( 12...Bg7 13.f4 ) 13.cxb6 Qxb6 14.Kb1 { and White is slightly better } )
+12...exd4 13.exd4 Bh6 $1
+{ This is the reason why I should have preferred to castle on move 12. After the dark-squared bishops are exchanged White will lack an important piece in the attack. }
+( { I was only counting on } 13...Bg7 14.O-O-O O-O 15.f5 b6 16.cxb6 Qxb6
+17.Na4 Qc7 18.Kb1 Nh5 19.Be3 { with some advantage for White } ) 14.O-O-O O-O
+15.f5 Bxd2+ 16.Qxd2 Nh5
+{ Due to control over the dark squares Black has a satisfactory position. }
+( 16...b6 { was the other option although it involved more risk: } 17.cxb6
+Qxb6 18.Qh6 Rb8 19.Rd2 c5 20.Rg1 Nf8 { with the unclear position } ( 
+20...cxd4 21.fxg6 fxg6 22.Bxg6 hxg6 23.Rxg6+ Kf7 24.Rg7+ Ke6 25.Re2+ Ne5 ( 
+25...Kd6 26.Qf4+ Kc5 27.Na4+ ) 26.f4 { winning } ) ) 17.Rhg1 ( { or } 17.h4
+Qf6 18.Ne2 Raa8 19.Rdg1 Kh8
+{ and it`s also doubtful whether White can reach anything on the Kingside } )
+17...Qh4 $6 { It seems that Thomas overestimates his position. } ( 17...Qf6
+{ defending the g6-pawn was better: } 18.Rg4 Ng7 19.Rdg1 Nxf5 20.Rf4 Kh8
+21.Bxf5 gxf5 22.Qd3 Rg8 23.Rxg8+ Kxg8 24.Rxf5 Qh6+ 25.Kc2 Ra8 $1
+{ Finally bringing the rook into play Black manages to hold the balance. } )
+18.Kb1
+{ aimed against 18...Qd4 which is now refuted by 19.fg fg 20.Bg6 and White wins. }
+18...Ndf6 $2
+{ Black is bringing the knight to the defence and black position seems indeed very solid but now surprisingly Black gets under smashing attack. }
+( { or } 18...Nf4 19.Bc2 Nf6 ( 19...Raa8 20.f3 Nf6 21.Rg4 $18 ) 20.f3 g5
+21.Qe1 $16 ) ( 18...Qf6 { was still the best defence. } ) 19.fxg6 fxg6
+20.Bxg6 $1
+{ there is no sense to sit and wait until Black plays Ra7-a8 and consolidates all his pieces. }
+20...hxg6 21.Qh6
+{ Black has many pieces around his king but some of them are so ackwardly placed, especially the pinned knight on h5 and the queen on h4 that the black king is forced to leave his safe heaven and tries to save himself in the middle of the board. }
+21...Kf7 ( 21...Nh7 22.Rxg6+ Kh8 23.Rg7 $18 ) ( 21...Qf4 22.Rxg6+ ( 22.Qxg6+
+$2 Kh8 23.Rg5 Qc7 ) 22...Kf7 23.Rg7+ Ke8 24.Re1+ Kd8 25.Rg5 Rf7 ( 25...Re8
+26.Ree5 $3 { preparing 27.Rh5 Nh5 28.Qd6 } 26...Qxh2 27.Rxh5 Qg1+ 28.Kc2
+Qxf2+ 29.Kb3 Rxe5 30.Rxe5 Nd7 31.Rg5 $18 ) 26.Qh8+ Kc7 27.Rge5
+{ and Black is helpless against the numerous threats, for example: } 27...Ng7
+( 27...Qxh2 28.Na4 ) 28.Re7+ Nd7 29.Qg8 Rxe7 30.Rxe7 Qxd4 31.Qxg7 Qxg7
+32.Rxg7 $18 ) 22.Qxg6+ ( 22.Rxg6 { would have been a mistake in a view of }
+22...Qxf2 ) 22...Ke7 23.Rde1+ Kd8 ( 23...Kd7 { is not better: } 24.Qf5+ Kd8
+25.Qe6 Ne8 ( 25...Nd7 26.Rg8 Qxf2 ( 26...Ra8 27.Nxd5 $1 cxd5 28.Rxf8+ Nxf8
+29.Qb6+ Kc8 30.c6 $18 ) 27.Qe8+ $1 Kc7 28.Rxf8 Qxf8 29.Qxh5 $18 ) 26.Qe5 Ra8
+27.Nxd5 $3 cxd5 28.Qxd5+ Kc8 ( 28...Kc7 29.Rg5 { /\30.Re7 } ) 29.c6 Kb8 ( 
+29...bxc6 30.Rxe8+ $1 Rxe8 ( 30...Kc7 31.Qe5+ Kb7 32.Re7+ ) ( 30...Kb7
+31.Qd7+ Kb6 32.Re3 ) 31.Qxc6+ Kb8 32.Qb6+ Kc8 33.Rc1+ Kd7 34.Rc7+ Kd8 35.Qd6#
+) 30.cxb7 Ra7 31.Qc5 Rxb7 32.Qxf8 Rxb2+ 33.Ka1 $1 Nf6 34.Rxe8+ Nxe8 35.Qxe8+
+{ winning } ) 24.Qh6
+{ White has to hurry before Black manages to bring his a7-rook into play. }
+24...Rf7 $2 { This so obvious move loses by force. } ( 24...Re8
+{ is not sufficient: } 25.Rxe8+ Nxe8 26.Rg8 $18 ) ( 24...Nd7
+{ was the toughest defence after which it`s very difficult for White to keep the initiative. The computer now likes }
+25.Qh7 $1
+{ creating threats along the 7th rank and it looks like Black has to give up his knight on h5. }
+( { worse } 25.Na4 Qxd4 26.Nb6 Nhf6
+{ and White has no compensation for a piece } ) ( 25.Rg3 Ra8 26.Rge3 Qg4
+27.Na4 Nhf6 28.Nb6 Rf7 { is unclear as well } ) 25...Qxf2
+{ probably the best defence } ( 25...Kc7 { loses to } 26.Rg7 Rd8 27.Ree7 Qh3
+28.Kc2 $1 { preventing Qf1+ } 28...b5 ( 28...b6 29.Na4 ) 29.Rgf7 Kc8 30.Ne2
+Qg4 31.h3 Qxh3 32.Rf5 Nf8 ( 32...Qg2 33.Qxh5 Nf6 34.Qf7 ) 33.Rxf8 Rxf8
+34.Rxa7 Qf5+ 35.Kd2 $18 ) ( 25...Ra8 26.Na4 Kc7 27.Nb6 Rad8 28.Rg7 Qh3
+29.Rxd7+ Rxd7 30.Nxd7 Qf5+ 31.Qxf5 Rxf5 32.Re7 Kd8 33.Rh7 Rxf2 34.Ne5 $18 )
+( 25...Qh3 26.Rg5 Nf4 27.Qe7+ Kc7 28.Qd6+ Kc8 29.Na4 $18 ) ( 25...Qxd4
+26.Qxh5 Qxf2 ( 26...Nxc5 27.Rd1 Qh8 ( 27...Qf6 28.Nxd5 ) ( 27...Qf4 28.Nxd5
+Qe4+ 29.Ka1 cxd5 30.Rge1 Qc4 31.Rxd5+ Nd7 32.Qg5+ $18 ) 28.Qg5+ Kc8 ( 
+28...Qf6 29.Nxd5 ) 29.Qe7 Nd7 30.Rg7 Qh3 31.Na4 Qf5+ 32.Ka1 Rd8 33.Nb6+ $18 )
+27.Na4 Kc7 28.Qg5 Qf4 ( 28...Qxh2 29.Qe7 ) 29.Qxf4+ Rxf4 30.Rg7 Rxa4 ( 
+30...Kd8 31.Nb6 Nxc5 32.Ree7 $18 ) 31.Ree7 Rh4 32.Rxd7+ Kc8 33.Rdf7 Rh8 34.h4
+$18 ) 26.Qxh5 Qxd4
+{ here White has a choice of 2 approximately equal options: } 27.Qg6 ( 
+27.Qg5+ Kc8 28.h4 ( 28.Re7 Qxc5 29.Rc1 d4 30.Nd5 Qd6 31.Rg7 a5 32.h4 Ra6
+33.h5 Kb8 ) 28...Qxc5 ( 28...Nxc5 29.h5 ) 29.h5 d4 ( 29...b5 30.Ne2 Qf2 ( 
+30...Qd6 31.Nd4 ) 31.h6 Qf6 32.Qg7 Qxg7 33.Rxg7 Rb7 34.Nd4 c5 35.Nc6 $18 )
+30.Ne4 Qxg5 31.Rxg5 b5 ( 31...Kc7 32.Rg7 ) 32.Rd1 Nb6 33.Rxd4 Nd5 34.Rg6 Rc7
+35.Nc5 a5 36.Rd1 { with a big advantage } ) 27...Qxc5 ( 27...Qf6 28.Qxf6+
+Rxf6 29.Rg8+ Rf8 30.Rxf8+ Nxf8 31.Na4 Ra8 32.Nb6 Rb8 33.h4 Nd7 34.Rg1 Nxc5
+35.Rg8+ Kc7 36.Na8+ $18 ) ( 27...Nxc5 28.Qd6+ Nd7 29.Qe7+ Kc8 30.Rg7 Rd8
+31.h4 b5 32.h5 Rc7 ( 32...b4 33.Na4 Rh8 34.h6 ) 33.h6 Rh8 34.h7 Kb7 35.Ka1 a5
+36.Rf7 a4 37.Qd6 $16 ) 28.Qe6 Qd4 { and now or } 29.Rg6 ( 29.Rg8 Rxg8
+30.Qxg8+ Kc7 31.Qg3+ Kd8 32.Ne2 ( 32.h4 Qf6 ) 32...Qf6 33.Nf4 b5 34.Ka1 $1
+{ this modest move means the beginning of the decisive attack! } ( 34.Ne6+
+Kc8 35.Qd6 Nb8 ) 34...Kc8 ( 34...a5 35.a3 b4 36.Re6 Qd4 37.Rxc6 $18 ) 35.Re6
+Qd8 36.Rxc6+ Rc7 37.Rxc7+ Qxc7 38.Qg8+ Kb7 39.Qxd5+ ) 29...Qd3+ ( 29...Ra8
+30.Qe7+ Kc8 ( 30...Kc7 31.Rd6 Rad8 32.Rxd7+ ) 31.Rd6 Rd8 32.Nxd5 ) ( 
+29...Kc7 30.Qd6+ Kc8 31.h4 Qc5 ( 31...Rd8 32.Qg3 ) ( 31...Qxh4 32.Rge6 Rd8
+33.Nxd5 cxd5 34.Rc1+ ) 32.Qg3 b5 33.h5 ( 33.Ne2 $5 ) 33...Rc7 ( 33...Nf6
+34.Re6 Raf7 35.Qe5 ) 34.h6 Kb7 ( 34...Nf6 35.Rxf6 Rxf6 36.h7 Rxh7 37.Qg8+ )
+35.h7 Rh8 36.Rg7 b4 37.Na4 Qd4 38.Ka1 c5 39.Rf7 ) 30.Ka1 Kc8 31.Rg8 Rxg8
+32.Qxg8+ Kc7 33.Rc1 d4 ( 33...Nc5 34.b4 Nd7 35.Nxd5+ Kd6 36.Qg1 ( 36.Nc3 Kc7
+37.h4 $16 ) 36...cxd5 ( 36...Ra8 37.Nb6 ) 37.Qxa7 Qd2 38.Qg1 $16 ) 34.Nd5+
+Kd6 35.Nf4 Qf5 36.Rf1 c5 37.h4 b6 ( 37...d3 38.Rf3 ) 38.h5 Kc6 39.Qg2+ Kb5
+40.b3 a5 41.Qe2+ Kc6 42.Nd3 Qd5 43.h6 a4 44.b4 c4 45.b5+ Kb7 ( 45...Qxb5
+46.h7 ) 46.Nb4 d3 47.Nxd5 dxe2 48.Re1 Ra8 49.Rxe2 Rh8 50.Re7 Kc8 51.h7 $18
+{ and White wins. Probably the above seen lines don`t show all defensive possibilities but from them we can see how dangerous White`s initiative is. }
+) 25.Rg8+ $1
+{ appearance of this rook on the 8th rank means even more trouble to the black king, moreover it means that the rook on a7 probably will never come into play... }
+25...Kc7 ( 25...Nxg8 26.Qd6+ { with mate } ) 26.Rf8
+{ putting the rook in a more "comfortable" place and keeping to chase the black rook. }
+( 
+{ when analysing the game I discovered another nice possibility for White: }
+26.Qh8 $5 Qh3 ( 26...Nxg8 27.Qe5+ Kc8 28.Na4 b5 29.Qe6+ Rfd7 30.Nb6+ Kb8
+31.Nxd7+ ) 27.Rb8 Qd7 28.Na4 { winning } ) 26...Rh7
+{ allowing the beautiful final, but there was no defence anyway. } ( 
+26...Rd7 27.Qh8 $18 ) ( 26...Rg7 27.Na4 Qxd4 28.Qh8 Qd3+ 29.Ka1 Qe4 30.Rc8+
+Kd7 31.Nb6+ ) 27.Na4 $3
+{ Comes completely unexpectedly. The knight suddenly is joining the mating attack. }
+( { There was another winning option: } 27.Qg6 Rd7 28.Ree8 Nxe8 29.Qxe8 Rd8
+30.Qe5+ Kc8 31.Rf7 Rd7 32.Qf5 Qd8 33.Na4 $18
+{ but I like 27.Na4!! a lot more. } ) 27...Rxh6 ( 27...Qh3 28.Nb6 Rxh6
+29.Re7+ { followed by 30.Rc8 mate. } ) ( 27...Qxf2 28.Qxh7+ Nxh7 29.Re7# )
+28.Nb6 ( { Here it was not too late for White to make a mistake: } 28.Re7+ $2
+Nd7 29.Nb6 { and it seems that there is no defence against 30.Rc8 but... }
+29...Qe4+ $3 { still, White could make a draw after } 30.Kc1 Qe1+ 31.Kc2 Qe2+
+32.Kc1 Qc4+ 33.Kb1 Qf1+ { with a perpetual } ) 28...Qe4+ ( 28...Qh3 29.Re7+
+{ except the g and some pawns White used all his pieces to deliver mate to the Black king. }
+) 29.Rxe4 1-0
 
 [Event "Dos Hermanas"]
 [Site "Dos Hermanas ESP"]
@@ -707,140 +724,91 @@ Rb1 (44... Rc1 45. Kd3 (45. Kf4) 45... Ke7 46. b5 Ke6 47. Rb4 $18) 45. Kd3 Kg7
 [White "Milov, V."]
 [Black "Borovikov, V."]
 [Result "1-0"]
-[ECO "D49"]
-[WhiteElo "2632"]
+[Annotator "Milov"]
 [BlackElo "2578"]
-[Annotator "Milov"]
-[PlyCount "65"]
+[ECO "D49"]
 [EventDate "2004.03.25"]
+[WhiteElo "2632"]
 
-1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
-a6 9. e4 c5 10. e5 cxd4 11. Nxb5 axb5 12. exf6 gxf6 13. O-O Qb6 14. Qe2 Ba6 15.
-Rd1 Rd8 16. b4 $5 {not new but a very interesting attempt in order to gain
-time and to prevent the black knight from coming to c5.} 16... Bxb4 17. Rb1 Bc3
-18. a4 {as far as I know this move is a novelty. The idea of this move is to
-keep the tension on the board} 18... Nc5 {it`s difficult to criticise such a
-move but may be this is the cause for the upcoming black problems.} 19. Bxb5+
-Bxb5 20. Rxb5 Qa6 {pinning the rook but as the game shows, in some variations
-the queen will feel itself very uncomfortable on a6. Still, I`m not able to
-offer a better move for Black as the other queen retreats are worse:} (20...
-Qc6 21. Qc4 Rc8 (21... Rg8 22. Rxc5 Qxf3 23. Qb5+ Kf8 24. Bh6+ {winning}) 22.
-Nxd4 Bxd4 23. Qxd4 Rg8 24. g3 $16) (20... Qc7 21. Ba3 (21. Qc4 Na6) (21. Bh6 $5
-) 21... Nxa4 (21... d3 22. Qe3) 22. Rdb1 $16 {with the strong initiative}) (
-20... Qa7 21. Ba3 (21. Bh6 $5 d3 22. Qf1) 21... d3 (21... Nxa4 22. Rdb1 Qa6 (
-22... d3 23. Qe4) 23. Qc4 Rc8 24. Qb3) (21... Nd7 22. Qc4 Qa6 23. Nxd4) 22.
-Bxc5 dxe2 (22... Qxa4 23. Rxd3 Qa1+ 24. Ne1) 23. Rxd8+ Kxd8 24. Bxa7 Kd7 25.
-Be3 e1=Q+ 26. Nxe1 Bxe1 27. Rb7+ Kd6 28. Kf1 Bc3 29. Rxf7 {
-with the winning endgame}) 21. g3 $1 {in many lines I was calculating during
-the game White couldn`t bring all his pieces to the attack just because his
-own king was too weak. By playing 21.g3 White solves this problem as well as
-the possible problems after Rh8-g8 and is now ready to play 22.Qc4} (21. Ba3 d3
-22. Qf1 Qxa4 $17) (21. Qc4 $2 Qxa4) 21... d3 {it seems that Black is
-maintaining the pressure but in fact Black position in the centre will be just
-more exposed. It would be better to keep the pawn on d4 so far.} (21... Nxa4
-22. Nxd4 $1 {here we see the problem for the black queen being on a6, Black
-can`t recapture on d4 because he would lose the queen:} 22... Bxd4 23. Rxd4
-Rxd4 $4 24. Rb8+) 22. Qf1 {the queen has to stay on the a6-f1 diagonal, now 22.
-..Na4 is not good because of 23.Rd3. As we see the pawn a4 is very helpful
-here!} (22. Qa2 $2 Qxa4) (22. Qe3 $2 Nxa4) 22... Qc6 (22... Nxa4 23. Rxd3 Rc8
-24. Ba3 Nb6 25. Rb3 Nd5 26. Qb1 Qc4 27. Rb5 Qa4 {(V)} 28. Rb8 Qc6 29. Rxc8+
-Qxc8 30. Qb5+ Kd8 31. Bc5 $18) 23. Ba3 (23. Be3 $6 Nxa4 24. Rxd3 O-O) 23...
-Qxf3 24. Bxc5 {this position I was aiming at when playing 21.g3. The seemingly
-strong d3-pawn is safely blocked by the rook on d1 and the black king forever
-stuck in the centre and is being in the permanent trouble, the other very
-important factor is that the rook h8 is out of play. White queen seems to be
-passive but it safely protects the king and the rook on d1, attacking the
-d3-pawn at the same time. The "active" black queen, on the other hand, has to
-watch the b7-square all the time, guarding it from the penetration of the
-white rook. But we forgot about the pawn on a4... This modest pawn that was
-about to get lost so many times now becomes an imminent threat for Black.} (24.
-Rxc5 Bd4 {threatening 25...Bf2}) 24... Qe4 {25.Rb3 was threatening} (24... Bd4
-$2 25. Bxd4 Rxd4 26. Rb8+) 25. a5 {up to this moment I used a lot of time on
-my clock but from now on my opponent started to consume huge amounts of time
-but was unable to find the defense.} (25. Rb3 Qc4) 25... Rg8 (25... Qc4 26.
-Rdb1 {the d3-pawn is pinned and is unable to move forward}) (25... Qc6 26. Rxd3
-$18) (25... h5 {is too slow:} 26. a6 h4 27. Qg2 (27. Rb7 Be5 28. Re7+ Kf8 29.
-Rd7+ Kg7 30. Qxd3 $18) 27... Qxg2+ 28. Kxg2 d2 29. a7 Kd7 30. Rb3 Ba5 31. Ra3
-$18) 26. a6 (26. Bb6 $5) 26... Rg5 (26... Qc4 {
-would`ve been a tougher defence but there too after forced:} 27. Rxd3 $1 Qxd3 (
-27... Rxd3 28. a7 Kd7 29. Rb7+ $1 (29. Rb8 Rgxg3+ 30. hxg3 Rxg3+ 31. fxg3 Qxc5+
-32. Qf2 Bd4 33. a8=Q Bxf2+ 34. Kg2 Bxg3 35. Rd8+ Ke7 36. Re8+ Kd7 {
-and Black holds}) 29... Kc6 30. Rb8 $18) 28. Qxd3 Rxd3 29. Rb8+ Rd8 30. a7 Kd7
-31. a8=Q Rxb8 32. Qa4+ Kc7 33. Qc4 (33. Qc2 Be5 34. f4 (34. Ba7+ $2 Kd7 35.
-Bxb8 Rxb8 36. Qxh7 Ke7 $14)) 33... Be5 34. f4 Bd6 35. Ba3+ Kd7 36. Qd4 $18) 27.
-a7 $18 {Black is helpless} 27... d2 (27... Rxc5 28. Rxc5 Bd4 29. Qxd3 $1 Bxf2+
-30. Kxf2 Rxd3 31. Rxd3 $18) 28. Be3 Rgd5 (28... Rxb5 29. Qxb5+ Kf8 30. Qc5+)
-29. Rb8 Qa4 30. Bb6 Bd4 31. a8=Q Qxa8 32. Rxa8 Rxa8 33. Bxd4 (33. Bxd4 {
-and in a view of the forced variation:} 33... Rxd4 34. Qb5+ Rd7 35. Rxd2 Raa7
-36. Rxd7 Rxd7 37. Qh5 {Black resigned}) 1-0
-
-[Event "Biel SKA"]
-[Site "?"]
-[Date "1996.??.??"]
-[Round "10"]
-[White "Portisch, L."]
-[Black "Milov, V."]
-[Result "0-1"]
-[ECO "A48"]
-[WhiteElo "2600"]
-[BlackElo "2565"]
-[Annotator "Milov"]
-[PlyCount "97"]
-[EventDate "1996.??.??"]
-
-1. d4 Nf6 2. Nf3 g6 3. b3 Bg7 4. Bb2 O-O 5. e3 (5. g3 d6 6. Bg2 e5 7. dxe5 Nfd7
-8. O-O Nc6) 5... d6 6. Be2 e5 (6... b6 $5) 7. dxe5 Nfd7 8. c4 dxe5 9. Qc1 Nc6
-10. O-O f5 (10... e4 $5 11. Bxg7 Kxg7 12. Qc3+ Qf6 13. Nfd2 Re8 14. Rd1 h5 $11)
-11. Rd1 Qe8 12. Nc3 e4 13. Ne1 Nde5 (13... Nf6 $5 14. Nd5 Rf7 15. Bc3 Nxd5 16.
-cxd5 Ne5 $13) 14. Nd5 Rf7 15. b4 Nd8 16. Bc3 Rd7 (16... c6 $5) 17. Qb2 (17. Qa3
-$1) 17... Ndf7 18. Nc2 (18. Qa3 $5) 18... g5 19. b5 (19. Nd4 c6 20. Nxf5 Rxd5 (
-20... cxd5 21. Bh5) 21. Nxg7 Rxd1+ 22. Rxd1 Kxg7 23. Bh5 Kh6) 19... c6 20. Ndb4
-a6 21. bxc6 bxc6 22. Ne1 Rb7 23. Qa3 f4 (23... Qf8 $5 24. Rac1 Be6 25. Nbc2 c5
-26. Rb1 $13) (23... Qe7 $1 24. Rac1 $140 Bf8) 24. Nbc2 f3 25. gxf3 exf3 26.
-Nxf3 Bg4 (26... Bf5 27. Ncd4 Be4 28. Nd2) (26... g4 $1 27. Nxe5 Nxe5 28. Nd4 (
-28. Ne1 Bf5) 28... Qg6 $36 (28... Rf7 $36)) 27. Nce1 $2 (27. Ncd4 $13 Qc8 $140
-28. Nxe5 Nxe5 29. f3) 27... Qe6 $2 (27... Qc8 $1 $19) 28. Nd4 Qh6 $44 29. f3
-Bh3 30. Rd2 (30. Rab1) 30... Re8 31. Ndc2 $6 Qg6 32. Kf2 g4 33. f4 Ng5 $1 {
-White can not let the Knight come to e4 and has to take it.} 34. fxg5 Rf7+ 35.
-Kg1 Qf5 36. Nd3 Nxc4 $4 {Here being in time trouble I missed an easy win} (
-36... Qe4 37. Nde1 Ref8) 37. Qb3 Nxd2 38. Bxd2 Bxa1 39. Nxa1 Bf1 $1 40. e4 $5 {
-Hoping for the perpetual check.The alternative would also leave Black good
-winning chances} (40. Qd1 Bxe2 41. Qxe2 Rd8 $19) 40... Rxe4 41. Qb8+ Rf8 42.
-Qb3+ Re6 $1 (42... Kg7 43. Qc3+) 43. Nf4 Bxe2 44. Nc2 (44. Qxe6+ Qxe6 45. Nxe6
-Rf1+) 44... Qc5+ $1 45. Ne3 (45. Be3 Qc4 46. Nxe6 Rf1+ 47. Kg2 Qe4+) 45... Rxf4
-46. Qxe6+ Rf7 47. g6 hxg6 48. Qxg6+ Kf8 49. Qe4 (49. Qe4 Rf1+ 50. Kg2 Bf3+) 0-1
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6
+9.e4 c5 10.e5 cxd4 11.Nxb5 axb5 12.exf6 gxf6 13.O-O Qb6 14.Qe2 Ba6 15.Rd1 Rd8
+16.b4 $5
+{ not new but a very interesting attempt in order to gain time and to prevent the black knight from coming to c5. }
+16...Bxb4 17.Rb1 Bc3 18.a4
+{ as far as I know this move is a novelty. The idea of this move is to keep the tension on the board }
+18...Nc5
+{ it`s difficult to criticise such a move but may be this is the cause for the upcoming black problems. }
+19.Bxb5+ Bxb5 20.Rxb5 Qa6
+{ pinning the rook but as the game shows, in some variations the queen will feel itself very uncomfortable on a6. Still, I`m not able to offer a better move for Black as the other queen retreats are worse: }
+( 20...Qc6 21.Qc4 Rc8 ( 21...Rg8 22.Rxc5 Qxf3 23.Qb5+ Kf8 24.Bh6+ { winning }
+) 22.Nxd4 Bxd4 23.Qxd4 Rg8 24.g3 $16 ) ( 20...Qc7 21.Ba3 ( 21.Qc4 Na6 ) ( 
+21.Bh6 $5 ) 21...Nxa4 ( 21...d3 22.Qe3 ) 22.Rdb1 $16
+{ with the strong initiative } ) ( 20...Qa7 21.Ba3 ( 21.Bh6 $5 d3 22.Qf1 )
+21...d3 ( 21...Nxa4 22.Rdb1 Qa6 ( 22...d3 23.Qe4 ) 23.Qc4 Rc8 24.Qb3 ) ( 
+21...Nd7 22.Qc4 Qa6 23.Nxd4 ) 22.Bxc5 dxe2 ( 22...Qxa4 23.Rxd3 Qa1+ 24.Ne1 )
+23.Rxd8+ Kxd8 24.Bxa7 Kd7 25.Be3 e1=Q+ 26.Nxe1 Bxe1 27.Rb7+ Kd6 28.Kf1 Bc3
+29.Rxf7 { with the winning endgame } ) 21.g3 $1
+{ in many lines I was calculating during the game White couldn`t bring all his pieces to the attack just because his own king was too weak. By playing 21.g3 White solves this problem as well as the possible problems after Rh8-g8 and is now ready to play 22.Qc4 }
+( 21.Ba3 d3 22.Qf1 Qxa4 $17 ) ( 21.Qc4 $2 Qxa4 ) 21...d3
+{ it seems that Black is maintaining the pressure but in fact Black position in the centre will be just more exposed. It would be better to keep the pawn on d4 so far. }
+( 21...Nxa4 22.Nxd4 $1
+{ here we see the problem for the black queen being on a6, Black can`t recapture on d4 because he would lose the queen: }
+22...Bxd4 23.Rxd4 Rxd4 $4 24.Rb8+ ) 22.Qf1
+{ the queen has to stay on the a6-f1 diagonal, now 22. ..Na4 is not good because of 23.Rd3. As we see the pawn a4 is very helpful here! }
+( 22.Qa2 $2 Qxa4 ) ( 22.Qe3 $2 Nxa4 ) 22...Qc6 ( 22...Nxa4 23.Rxd3 Rc8 24.Ba3
+Nb6 25.Rb3 Nd5 26.Qb1 Qc4 27.Rb5 Qa4 { (V) } 28.Rb8 Qc6 29.Rxc8+ Qxc8 30.Qb5+
+Kd8 31.Bc5 $18 ) 23.Ba3 ( 23.Be3 $6 Nxa4 24.Rxd3 O-O ) 23...Qxf3 24.Bxc5
+{ this position I was aiming at when playing 21.g3. The seemingly strong d3-pawn is safely blocked by the rook on d1 and the black king forever stuck in the centre and is being in the permanent trouble, the other very important factor is that the rook h8 is out of play. White queen seems to be passive but it safely protects the king and the rook on d1, attacking the d3-pawn at the same time. The "active" black queen, on the other hand, has to watch the b7-square all the time, guarding it from the penetration of the white rook. But we forgot about the pawn on a4... This modest pawn that was about to get lost so many times now becomes an imminent threat for Black. }
+( 24.Rxc5 Bd4 { threatening 25...Bf2 } ) 24...Qe4 { 25.Rb3 was threatening }
+( 24...Bd4 $2 25.Bxd4 Rxd4 26.Rb8+ ) 25.a5
+{ up to this moment I used a lot of time on my clock but from now on my opponent started to consume huge amounts of time but was unable to find the defense. }
+( 25.Rb3 Qc4 ) 25...Rg8 ( 25...Qc4 26.Rdb1
+{ the d3-pawn is pinned and is unable to move forward } ) ( 25...Qc6 26.Rxd3
+$18 ) ( 25...h5 { is too slow: } 26.a6 h4 27.Qg2 ( 27.Rb7 Be5 28.Re7+ Kf8
+29.Rd7+ Kg7 30.Qxd3 $18 ) 27...Qxg2+ 28.Kxg2 d2 29.a7 Kd7 30.Rb3 Ba5 31.Ra3
+$18 ) 26.a6 ( 26.Bb6 $5 ) 26...Rg5 ( 26...Qc4
+{ would`ve been a tougher defence but there too after forced: } 27.Rxd3 $1
+Qxd3 ( 27...Rxd3 28.a7 Kd7 29.Rb7+ $1 ( 29.Rb8 Rgxg3+ 30.hxg3 Rxg3+ 31.fxg3
+Qxc5+ 32.Qf2 Bd4 33.a8=Q Bxf2+ 34.Kg2 Bxg3 35.Rd8+ Ke7 36.Re8+ Kd7
+{ and Black holds } ) 29...Kc6 30.Rb8 $18 ) 28.Qxd3 Rxd3 29.Rb8+ Rd8 30.a7
+Kd7 31.a8=Q Rxb8 32.Qa4+ Kc7 33.Qc4 ( 33.Qc2 Be5 34.f4 ( 34.Ba7+ $2 Kd7
+35.Bxb8 Rxb8 36.Qxh7 Ke7 $14 ) ) 33...Be5 34.f4 Bd6 35.Ba3+ Kd7 36.Qd4 $18 )
+27.a7 $18 { Black is helpless } 27...d2 ( 27...Rxc5 28.Rxc5 Bd4 29.Qxd3 $1
+Bxf2+ 30.Kxf2 Rxd3 31.Rxd3 $18 ) 28.Be3 Rgd5 ( 28...Rxb5 29.Qxb5+ Kf8 30.Qc5+
+) 29.Rb8 Qa4 30.Bb6 Bd4 31.a8=Q Qxa8 32.Rxa8 Rxa8 33.Bxd4 ( 33.Bxd4
+{ and in a view of the forced variation: } 33...Rxd4 34.Qb5+ Rd7 35.Rxd2 Ra7
+36.Rxd7 Rxd7 37.Qh5 { Black resigned } ) 1-0
 
 [Event "SUI-chT"]
 [Site "?"]
-[Date "2006.??.??"]
+[Date "2006"]
 [Round "8"]
 [White "Milov, V."]
 [Black "Kortschnoi, V."]
 [Result "1-0"]
-[ECO "E41"]
 [Annotator "Milov"]
-[PlyCount "99"]
+[ECO "E41"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. cxd5 Qxd5 7. Nf3 cxd4 8.
-exd4 Qa5 9. O-O Nbd7 10. Qb3 $6 (10. Bf4 O-O 11. Rc1 b6 12. Ne5 Bb7 13. Nxd7
-Nxd7 14. Nb5 Ba6 15. Qe2 Nf6 16. a3 Be7 17. Bc4 Bxb5 18. Bxb5 a6 19. Bc6 Rad8
-20. d5 $16) 10... O-O 11. Bf4 Be7 12. Rac1 a6 13. Rfe1 Qd8 (13... b5 14. Ng5 (
-14. Ne5 Qb6) 14... b4 15. Nce4 Qb6 16. Nxf6+ Nxf6 17. Qc2 h6 18. Nh7 Nxh7 19.
-Bxh7+ Kh8 20. Bd3 Bf6 $11) 14. Bb1 Nb6 (14... b5 15. d5 Nc5 16. Qc2 b4 17. Rcd1
-bxc3 (17... Bb7 18. Be5 g6 19. d6) 18. d6 $18) 15. Qc2 g6 16. Ne4 Nbd5 17. Bh6
-Re8 18. Ne5 Nxe4 19. Qxe4 Bd7 20. Qf3 Bf6 21. Be4 Bc6 22. Nxc6 bxc6 23. Rxc6 $2
-(23. Bxd5 cxd5 24. Rc7 Be7 25. Rec1 f6 26. Qh3 $18) 23... Bxd4 24. b3 Nf6 25.
-Bb1 (25. Bd3) 25... Nd7 (25... Qd5) 26. Bf4 Qa5 27. Qe2 Nf6 28. Rd1 Ba7 29. Bd3
-Nd5 30. Be5 $2 (30. Bd2 Qxa2 31. Rxa6 Qb2 32. Rda1 Re7 33. b4 $16) 30... Bb8 $6
-(30... Ne3 $13) 31. Ba1 Nf4 32. Qb2 e5 33. Bc4 $2 (33. Bf1 Ne6 (33... Ba7 34.
-g3) 34. Qe2 $16) 33... Ba7 34. g3 Bd4 (34... Rad8 35. Rf1 (35. Rxd8 Qe1+ 36.
-Bf1 Bxf2+ $19) (35. Qc2 Rxd1+ 36. Qxd1 Bxf2+ (36... Qxa2 37. gxf4 Qxf2+ 38. Kh1
-Qxf4 $14) 37. Kxf2 Qxa2+ 38. Be2 Nxe2 39. Rc2 Qxb3 40. Qxe2 Qb1 41. Bb2 Qh1 42.
-Ke3 f5 $11) 35... Bxf2+ (35... Rd2 36. Qc3 Qxc3 37. Bxc3 Ne2+ 38. Bxe2 Rxe2 39.
-Rxa6) 36. Kh1 (36. Rxf2 Qe1+ 37. Bf1 (37. Rf1 Qe3+ 38. Rf2 Rd1+ 39. Bf1 Nh3+)
-37... Nh3+ 38. Kg2 Nxf2 $19) 36... Bd4 (36... Rd2 37. Qc3) 37. Qc2 Ne6 38. Bxd4
-exd4 39. Rxa6 $14) 35. Qc2 $16 (35. Rxd4 exd4 36. gxf4 Qh5 37. Qc1 $11) 35...
-Bxa1 36. Rxa1 Nh3+ 37. Kg2 Ng5 38. Rd1 Rad8 39. h4 Ne6 40. Rxd8 Nxd8 41. Rxa6
-Qc7 42. Qe4 Kg7 43. a4 Re7 44. Qf3 f5 45. a5 Rd7 46. h5 Rd4 47. h6+ Kxh6 48.
-Qxf5 Nb7 (48... Qe7 49. Qf6 Qc5 50. Rb6) 49. Qf8+ Kg5 50. f4+ 1-0
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 d5 6.cxd5 Qxd5 7.Nf3 cxd4 8.exd4 Qa5
+9.O-O Nbd7 10.Qb3 $6 ( 10.Bf4 O-O 11.Rc1 b6 12.Ne5 Bb7 13.Nxd7 Nxd7 14.Nb5
+Ba6 15.Qe2 Nf6 16.a3 Be7 17.Bc4 Bxb5 18.Bxb5 a6 19.Bc6 Rad8 20.d5 $16 )
+10...O-O 11.Bf4 Be7 12.Rac1 a6 13.Rfe1 Qd8 ( 13...b5 14.Ng5 ( 14.Ne5 Qb6 )
+14...b4 15.Nce4 Qb6 16.Nxf6+ Nxf6 17.Qc2 h6 18.Nh7 Nxh7 19.Bxh7+ Kh8 20.Bd3
+Bf6 $11 ) 14.Bb1 Nb6 ( 14...b5 15.d5 Nc5 16.Qc2 b4 17.Rcd1 bxc3 ( 17...Bb7
+18.Be5 g6 19.d6 ) 18.d6 $18 ) 15.Qc2 g6 16.Ne4 Nbd5 17.Bh6 Re8 18.Ne5 Nxe4
+19.Qxe4 Bd7 20.Qf3 Bf6 21.Be4 Bc6 22.Nxc6 bxc6 23.Rxc6 $2 ( 23.Bxd5 cxd5
+24.Rc7 Be7 25.Rec1 f6 26.Qh3 $18 ) 23...Bxd4 24.b3 Nf6 25.Bb1 ( 25.Bd3 )
+25...Nd7 ( 25...Qd5 ) 26.Bf4 Qa5 27.Qe2 Nf6 28.Rd1 Ba7 29.Bd3 Nd5 30.Be5 $2
+( 30.Bd2 Qxa2 31.Rxa6 Qb2 32.Rda1 Re7 33.b4 $16 ) 30...Bb8 $6 ( 30...Ne3 $13
+) 31.Ba1 Nf4 32.Qb2 e5 33.Bc4 $2 ( 33.Bf1 Ne6 ( 33...Ba7 34.g3 ) 34.Qe2 $16 )
+33...Ba7 34.g3 Bd4 ( 34...Rad8 35.Rf1 ( 35.Rxd8 Qe1+ 36.Bf1 Bxf2+ $19 ) ( 
+35.Qc2 Rxd1+ 36.Qxd1 Bxf2+ ( 36...Qxa2 37.gxf4 Qxf2+ 38.Kh1 Qxf4 $14 )
+37.Kxf2 Qxa2+ 38.Be2 Nxe2 39.Rc2 Qxb3 40.Qxe2 Qb1 41.Bb2 Qh1 42.Ke3 f5 $11 )
+35...Bxf2+ ( 35...Rd2 36.Qc3 Qxc3 37.Bxc3 Ne2+ 38.Bxe2 Rxe2 39.Rxa6 ) 36.Kh1
+( 36.Rxf2 Qe1+ 37.Bf1 ( 37.Rf1 Qe3+ 38.Rf2 Rd1+ 39.Bf1 Nh3+ ) 37...Nh3+
+38.Kg2 Nxf2 $19 ) 36...Bd4 ( 36...Rd2 37.Qc3 ) 37.Qc2 Ne6 38.Bxd4 exd4
+39.Rxa6 $14 ) 35.Qc2 $16 ( 35.Rxd4 exd4 36.gxf4 Qh5 37.Qc1 $11 ) 35...Bxa1
+36.Rxa1 Nh3+ 37.Kg2 Ng5 38.Rd1 Rad8 39.h4 Ne6 40.Rxd8 Nxd8 41.Rxa6 Qc7 42.Qe4
+Kg7 43.a4 Re7 44.Qf3 f5 45.a5 Rd7 46.h5 Rd4 47.h6+ Kxh6 48.Qxf5 Nb7 ( 
+48...Qe7 49.Qf6 Qc5 50.Rb6 ) 49.Qf8+ Kg5 50.f4+ 1-0
 
