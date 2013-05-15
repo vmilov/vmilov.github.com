@@ -8,6 +8,30 @@
   <link rel="stylesheet" href="stylesheets/pygment_trac.css">
   <script type="text/javascript" src="javascripts/scale.fix.js">
   </script>
+
+  <link rel="shortcut icon" href="pgn4web/pawn.ico" />
+  <script src="pgn4web/pgn4web.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+    "use strict";
+
+    SetPgnUrl("games/selected_milov.pgn");
+    SetImagePath("pgn4web/images/merida/32");
+    SetImageType("png");
+    SetHighlightOption(true); // true or false
+    SetGameSelectorOptions(null, false, 0, 0, 0, 15, 15, 0, 10); // (head, num, chEvent, chSite, chRound, chWhite, chBlack, chResult, chDate);
+    SetCommentsIntoMoveText(false);
+    SetCommentsOnSeparateLines(false);
+    SetAutoplayDelay(1000); // milliseconds
+    SetAutostartAutoplay(false);
+    SetAutoplayNextGame(false); // if set, move to the next game at the end of the current game during autoplay
+    SetInitialGame(1); // number of game to be shown at load, from 1 (default); values (keep the quotes) of "first", "last", "random" are accepted; other string values assumed as PGN search string
+    SetInitialVariation(0); // number for the variation to be shown at load, 0 (default) for main variation
+    SetInitialHalfmove(0,false); // halfmove number to be shown at load, 0 (default) for start position; values (keep the quotes) of "start", "end", "random", "comment" (go to first comment or variation), "variation" (go to the first variation) are also accepted. Second parameter if true applies the setting to every selected game instead of startup only (default)
+    SetShortcutKeysEnabled(true);
+
+
+  </script>
   <meta name="viewport"
   content="width=device-width, initial-scale=1, user-scalable=no">
 </head>
@@ -42,7 +66,62 @@
 </p>
 
 <h3>My Chess Games</h3>
-<p> Coming Soon </p>
+<table width="90%" cellspacing="25" cellpadding="0">
+
+<tr valign="bottom">
+
+<td colspan="2" align="center">
+<div class="label" style="text-align: right; font-size: 66%;">
+game:<span id=currGm>0</span>/<span id=numGm>0</span>
+</div>
+<div id="GameSelector"></div>
+<div id="GameSearch" style="white-space:nowrap;"></div>
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td align="center" width="50%">
+<div id="GameBoard"></div>
+<p></p>
+<div id="GameButtons"></div>
+</td>
+
+<td style="font-size: 85%;">
+
+<span class="label">Date:</span> <span id="GameDate"></span>
+<br>
+<span class="label">Site:</span> <span id="GameSite"></span>
+<p></p>
+<span class="label">Event:</span> <span id="GameEvent"></span>
+<br>
+<span class="label">Round:</span> <span id="GameRound"></span>
+<p></p>
+<span class="label">White:</span> <a id="GameWhite" href="javascript:void(0);" onclick="searchPlayer(this.innerHTML, customPgnHeaderTag('WhiteFideId')); this.blur();"></a>&nbsp; &nbsp;<span id="GameWhiteElo"></span>&nbsp; &nbsp;<span id="GameWhiteTitle"></span>
+<br>
+<span class="label">Black:</span> <a id="GameBlack" href="javascript:void(0);" onclick="searchPlayer(this.innerHTML, customPgnHeaderTag('BlackFideId')); this.blur();"></a></span>&nbsp; &nbsp;<span id="GameBlackElo"></span>&nbsp; &nbsp;<span id="GameBlackTitle"></span>
+<p></p>
+<span class="label">Result:</span> <span id="GameResult"></span>
+<p></p>
+<span class="label">Opening:</span> <span id="GameECO"></span>&nbsp; &nbsp;<span id="GameOpening"></span>&nbsp; &nbsp;<span id="GameVariation"></span>
+<!--
+<p></p>
+<span class="label">Side to move:</span> <span id="GameSideToMove"></span>
+<br>
+<span class="label">Last move:</span> <span class="move" id="GameLastMove"></span>
+<br>
+<span class="label">Next move:</span> <span class="move" id="GameNextMove"></span>
+<p></p>
+<span class="label">Move comment:</span><br><span id="GameLastComment"></span>
+-->
+<p></p>
+<div style="text-align: justify;"><span id="GameText"></span>&nbsp;<span class="move" style="white-space: nowrap;" id="ResultAtGametextEnd"></span></div>
+
+</td>
+
+</tr>
+</table>
 
 </section></div>
 </body>
