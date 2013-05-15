@@ -3432,7 +3432,7 @@ function PrintHTML() {
   if (theObj = document.getElementById("GameButtons")) {
     var numButtons = 5;
     var spaceSize = 3;
-    var buttonSize = (tableSize - spaceSize*(numButtons - 1)) / numButtons;
+    var buttonSize = 80;//(tableSize - spaceSize*(numButtons - 1)) / numButtons;
     text = '<FORM NAME="GameButtonsForm" STYLE="display:inline;">' +
       '<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">' +
       '<TR><TD>' +
